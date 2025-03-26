@@ -1,997 +1,5608 @@
 [
-  {
-    "title": "Whisky Old Parr 750ml",
-    "price": "R$ 143,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Blonde 750ml",
-    "price": "R$ 119,90",
-    "onSale": false
-  },
-  {
-    "title": "Gin Tanqueray London Dry 750ml",
-    "price": "R$ 124,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Chivas Regal Escocês 12 Anos 1 L",
-    "price": "R$ 174,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Red Label 750ml",
-    "price": "R$ 82,90",
-    "onSale": false
-  },
-  {
-    "title": "Guaraná Antarctica Garrafa 200 ml",
-    "price": "R$ 1,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Lager Premium Puro Malte Amstel Lata 350ml",
-    "price": "R$ 3,99",
-    "onSale": false
-  },
-  {
-    "title": "Aperitivo Bitter Campari 748ml",
-    "price": "R$ 61,49",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante h2oh Limão Garrafa 1,5L",
-    "price": "R$ 7,99",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Red Label 500 ml",
-    "price": "R$ 54,90",
-    "onSale": false
-  },
-  {
-    "title": "Coca-Cola Lata 220 ml",
-    "price": "R$ 2,99",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 1L",
-    "price": "R$ 164,90",
-    "onSale": false
-  },
-  {
-    "title": "Vodka Smirnoff 998ml",
-    "price": "R$ 39,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Buchanan's Deluxe 12 Anos 750ml",
-    "price": "R$ 171,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Gold Label Reserve 750ml",
-    "price": "R$ 319,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Red Label 1L",
-    "price": "R$ 109,90",
-    "onSale": false
-  },
-  {
-    "title": "Bebida Láctea Cappuccino Zero Lactose Yopro Energy Boost 250ml",
-    "price": "R$ 7,09",
-    "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
-  },
-  {
-    "title": "Bebida Láctea Zero Lactose Morango YoPRO 15g Shake 250 ml",
-    "price": "R$ 7,15",
-    "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
-  },
-  {
-    "title": "Whisky Jack Daniel's Tennessee Fire 1 L",
-    "price": "R$ 164,90",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Antarctica Diet 350ml",
-    "price": "R$ 3,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Pilsen Brahma Chopp Lata 350ml",
-    "price": "R$ 3,49",
-    "onSale": false
-  },
-  {
-    "title": "Bebida Láctea Café Expresso Zero Lactose Yopro Energy Boost 250ml",
-    "price": "R$ 7,09",
-    "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica 1,5L Garrafa",
-    "price": "R$ 6,59",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Ballantine's Finest Blended Escocês – 750 ml",
-    "price": "R$ 84,90",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Coca-Cola Sem Açúcar Pet 200 ml",
-    "price": "R$ 1,79",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Amstel Ultra Lata 269ml",
-    "price": "R$ 4,19",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Buchanan's Deluxe 12 Anos 1L",
-    "price": "R$ 214,90",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Pepsi Black Sem Açúcar 350ml Lata",
-    "price": "R$ 2,99",
-    "onSale": false
-  },
-  {
-    "title": "Gin Gordon's London Dry 750ml",
-    "price": "R$ 79,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Budweiser American Lager 330ml Long Neck",
-    "price": "R$ 4,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Budweiser American Lager Lata 269 ml",
-    "price": "R$ 3,19",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Antarctica 350ml",
-    "price": "R$ 3,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Coronita Long Neck 210ml",
-    "price": "R$ 5,19",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Branco Casal Garcia 750ml",
-    "price": "R$ 64,90",
-    "onSale": false
-  },
-  {
-    "title": "Smirnoff Ice 275ml",
-    "price": "R$ 7,79",
-    "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
-  },
-  {
-    "title": "Cerveja Corona Extra Pilsen 330ml Long Neck",
-    "price": "R$ 7,19",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 1,5L",
-    "price": "R$ 6,59",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Lager Premium Puro Malte Stella Artois 330ml",
-    "price": "R$ 5,99",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante h2oh Limoneto Garrafa 1,5L",
-    "price": "R$ 7,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Skol Pilsen Lata 269ml Pack 15 Unidades",
-    "price": "R$ 43,35",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica Sem Açúcar Lata 350ML",
-    "price": "R$ 3,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Munich Helles Puro Malte Spaten Lata 269ml",
-    "price": "R$ 3,39",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante ANTARCTICA Guaraná Lata 350ML",
-    "price": "R$ 3,39",
-    "onSale": false
-  },
-  {
-    "title": "Suco de Uva Integral Carrefour Classic 1,5L",
-    "price": "R$ 22,49",
-    "onSale": false
-  },
-  {
-    "title": "Aperol Aperitivo Spritz 750ml",
-    "price": "R$ 65,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Heineken Zero Garrafa 330ml",
-    "price": "R$ 6,79",
-    "onSale": false
-  },
-  {
-    "title": "Pack Cerveja Pilsen Antarctica Original Lata 15 Unidades 269ml Cada Embalagem Econômica",
-    "price": "R$ 47,85",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Tinto Casa Crebar 2018 Cabernet Sauvignon 750ml",
-    "price": "R$ 28,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Corona Pilsen Lata 350ml",
-    "price": "R$ 5,99",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral sem Gás Minalba 1,5 Litros",
-    "price": "R$ 3,89",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral com Gás Minalba 1,5 Litros",
-    "price": "R$ 4,15",
-    "onSale": false
-  },
-  {
-    "title": "Isotônico Gatorade Morango com Maracujá 500ml Garrafa",
-    "price": "R$ 5,29",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Coca-Cola Sem Açúcar Vidro 250 ml",
-    "price": "R$ 3,89",
-    "onSale": false
-  },
-  {
-    "title": "Água de Coco Carrefour 1 Litro",
-    "price": "R$ 9,79",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Double Black 1L",
-    "price": "R$ 249,90",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Old Parr 1L",
-    "price": "R$ 179,90",
-    "onSale": false
-  },
-  {
-    "title": "Suco Del Valle 100% Uva TP 1L",
-    "price": "R$ 17,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Heineken Garrafa 600ml",
-    "price": "R$ 12,69",
-    "onSale": false
-  },
-  {
-    "title": "Isotônico Gatorade Uva 500ml Garrafa",
-    "price": "R$ 5,29",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Pepsi Black Sabor Cola sem Açúcares Garrafa 1,5L",
-    "price": "R$ 6,39",
-    "onSale": false
-  },
-  {
-    "title": "Água De Coco Kero Coco Caixa 1L",
-    "price": "R$ 15,99",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral sem Gás Minalba 10 Litros",
-    "price": "R$ 17,95",
-    "onSale": false
-  },
-  {
-    "title": "Chá Matte Leão Original 1,5L",
-    "price": "R$ 8,39",
-    "onSale": false
-  },
-  {
-    "title": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 900ml",
-    "price": "R$ 18,59",
-    "onSale": false
-  },
-  {
-    "title": "Chá Ice Tea Leão Pêssego 1,5L",
-    "price": "R$ 7,75",
-    "onSale": false
-  },
-  {
-    "title": "Vodka Smirnoff 600ml",
-    "price": "R$ 26,90",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Schweppes sem Açúcar Lata 350 ml",
-    "price": "R$ 3,39",
-    "onSale": false
-  },
-  {
-    "title": "Coca-Cola Sem Açúcar Pet 1 L",
-    "price": "R$ 6,79",
-    "onSale": false
-  },
-  {
-    "title": "Chá Matte Leão Limão Zero 1,5L",
-    "price": "R$ 8,59",
-    "onSale": false
-  },
-  {
-    "title": "Chá Mate Ice Tea Leão Limão Zero 1,5 L",
-    "price": "R$ 7,75",
-    "onSale": false
-  },
-  {
-    "title": "Chá Matte Leão Limão 1,5L",
-    "price": "R$ 8,39",
-    "onSale": false
-  },
-  {
-    "title": "Coca Cola Sem Açúcar Lata 310 ml",
-    "price": "R$ 3,49",
-    "onSale": false
-  },
-  {
-    "title": "Chá Ice Tea Leão Limão 1,5L",
-    "price": "R$ 7,75",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral sem Gás Frescca 1,5 Litros",
-    "price": "R$ 2,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Heineken Garrafa 250 ml",
-    "price": "R$ 5,29",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Lager Puro Malte Zero Álcool Heineken Lata 269ml",
-    "price": "R$ 4,49",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Schweppes 350ML",
-    "price": "R$ 3,39",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Sprite Lemon Fresh 1,5L",
-    "price": "R$ 7,29",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral sem Gás Nestlé Pureza Vital 1,5 Litros",
-    "price": "R$ 3,49",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 2L",
-    "price": "R$ 9,39",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica Garrafa 2L",
-    "price": "R$ 9,39",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Chivas Regal Escocês 12 Anos 750 ml",
-    "price": "R$ 147,90",
-    "onSale": false
-  },
-  {
-    "title": "Chá Lipton Ice Tea Limão Garrafa 1,5L",
-    "price": "R$ 6,69",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Pepsi Twist Garrafa 2L",
-    "price": "R$ 8,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Skol Pilsen Lata 269ml",
-    "price": "R$ 2,89",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Heineken 350ml Sleek",
-    "price": "R$ 5,79",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Coca-Cola Sem Açúcar 350ML",
-    "price": "R$ 3,89",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 600ML",
-    "price": "R$ 4,49",
-    "onSale": false
-  },
-  {
-    "title": "Drink Pronto Beats Senses 269ml Lata",
-    "price": "R$ 5,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Original Pilsen 600ml Garrafa",
-    "price": "R$ 9,99",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Black Label 1L",
-    "price": "R$ 209,90",
-    "onSale": false
-  },
-  {
-    "title": "Gin Tanqueray Sevilla 700ml",
-    "price": "R$ 127,45",
-    "onSale": false
-  },
-  {
-    "title": "Whisky White Horse 8 Anos Garrafa 1L",
-    "price": "R$ 79,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
-    "price": "R$ 4,79",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Brahma Chopp Pilsen 269ml Lata Pack Caixa 15",
-    "price": "R$ 38,85",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Tinto Seco Trivento Reserve Malbec Mendoza 750 ml",
-    "price": "R$ 64,90",
-    "onSale": false
-  },
-  {
-    "title": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 1,5 Litros",
-    "price": "R$ 21,99",
-    "onSale": false
-  },
-  {
-    "title": "Ice 51 Morango e Laranja 275 ml",
-    "price": "R$ 6,99",
-    "onSale": false
-  },
-  {
-    "title": "Suco Concentrado de Maracujá Maguary 500ml",
-    "price": "R$ 11,25",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Pepsi Black Garrafa 2L",
-    "price": "R$ 8,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Amstel Lata 269ml",
-    "price": "R$ 3,19",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Antarctica Pilsen Lata 350ml",
-    "price": "R$ 3,59",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja American Lager Puro Malte Petra Origem Lata 350ml",
-    "price": "R$ 3,19",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Baden Baden IPA Lata 350 ml",
-    "price": "R$ 6,39",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Soda Limonada Antarctica Garrafa 2L",
-    "price": "R$ 8,15",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Sukita Laranja Garrafa 2L",
-    "price": "R$ 6,29",
-    "onSale": false
-  },
-  {
-    "title": "Energético Melancia Baly Garrafa 2 L",
-    "price": "R$ 12,89",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral sem Gás Crystal 5 L",
-    "price": "R$ 10,95",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Budweiser Zero Álcool Long Neck 330ml",
-    "price": "R$ 5,19",
-    "onSale": false
-  },
-  {
-    "title": "Suco Kapo Uva 200ML",
-    "price": "R$ 2,65",
-    "onSale": false
-  },
-  {
-    "title": "Suco Kapo Morango 200ML",
-    "price": "R$ 2,59",
-    "onSale": false
-  },
-  {
-    "title": "Schweppes Citrus leve em Açúcares 350ml",
-    "price": "R$ 3,99",
-    "onSale": false
-  },
-  {
-    "title": "Suco de Uva Tinto Maguary Seleção 1,35 Litros",
-    "price": "R$ 18,49",
-    "onSale": false
-  },
-  {
-    "title": "Bebida Láctea UHT Chocolate Pirakids Caixa 200 ml",
-    "price": "R$ 1,39",
-    "onSale": false
-  },
-  {
-    "title": "Água Mineral com Gás Frutas Vermelhas Crystal Sparkling Pet 510 ml",
-    "price": "R$ 3,25",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Sol Premium Long Neck 330ml",
-    "price": "R$ 5,99",
-    "onSale": false
-  },
-  {
-    "title": "Chopp Draft Grape True Fruit 600 ml",
-    "price": "R$ 10,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Spaten Puro Malte 355ml Long Neck",
-    "price": "R$ 5,49",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Pepsi Twist Lata 350ML",
-    "price": "R$ 2,99",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Zero Açúcar Antarctica 1 L",
-    "price": "R$ 7,49",
-    "onSale": false
-  },
-  {
-    "title": "Suco Del Valle Néctar Laranja 1L",
-    "price": "R$ 7,99",
-    "onSale": false
-  },
-  {
-    "title": "Suco Del Valle Néctar Pêssego 1L",
-    "price": "R$ 7,99",
-    "onSale": false
-  },
-  {
-    "title": "Néctar de Uva Maguary 1 Litro",
-    "price": "R$ 6,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Eisenbahn Pilsen Puro Malte Unfiltered Garrafa 355ml",
-    "price": "R$ 5,09",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Johnnie Walker Black Label 750ml",
-    "price": "R$ 139,90",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Antarctica Guaraná Garrafa 1L RegulaR",
-    "price": "R$ 5,99",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Jack Daniel's Tennessee Honey 1 L",
-    "price": "R$ 164,90",
-    "onSale": false
-  },
-  {
-    "title": "Bebida à Base de Aveia Orgânica Nude 1L",
-    "price": "R$ 18,90",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Chileno Rosé Panul Clássico Viñedos Marchigue 750ml",
-    "price": "R$ 32,99",
-    "onSale": false
-  },
-  {
-    "title": "Coca-Cola Sem Açúcar 6 Unidades 350 ml Cada Pack Leve Mais Pague Menos",
-    "price": "R$ 22,19",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Branco Argentino Chardonnay Exclusivo Carrefour 750ml",
-    "price": "R$ 49,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Patagonia IPA 350ml Lata",
-    "price": "R$ 6,19",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja de Trigo Hoegaarden Lata 269ml",
-    "price": "R$ 4,49",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Rose Argentino Suelo Malbec 750ml",
-    "price": "R$ 49,99",
-    "onSale": false
-  },
-  {
-    "title": "Bebida Láctea Uht Chocolate Toddynho Caixa 200Ml",
-    "price": "R$ 2,95",
-    "onSale": false
-  },
-  {
-    "title": "Bebida Láctea UHT Chocolate Toddynho Levinho 200ml",
-    "price": "R$ 2,99",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Tinto Meio Seco Terroirs Du Monde Merlot 750ml",
-    "price": "R$ 26,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Baden Baden Witbier Lata 350 ml",
-    "price": "R$ 6,39",
-    "onSale": false
-  },
-  {
-    "title": "Suco Concentrado de Maracujá Dafruta 500ml",
-    "price": "R$ 7,99",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Branco Chileno Panul Chardonnay Garrafa 750ml",
-    "price": "R$ 32,99",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Limonada Soda Antarctica Garrafa 200 ml",
-    "price": "R$ 1,49",
-    "onSale": false
-  },
-  {
-    "title": "Coca-Cola Café Espresso Plus Lata 220 ml",
-    "price": "R$ 2,79",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Soda Limonada Antarctica Zero Lata 350ML",
-    "price": "R$ 2,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Itaipava Lager 350ml",
-    "price": "R$ 2,79",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Eisenbahn Pilsen Puro Malte Long Neck 355ml",
-    "price": "R$ 5,09",
-    "onSale": false
-  },
-  {
-    "title": "Bebida à Base de Aveia Orgânica Nude Baunilha 1L",
-    "price": "R$ 18,90",
-    "onSale": false
-  },
-  {
-    "title": "Kit Refrigerante Coca-Cola Original + Fanta Laranja 2 L Cada",
-    "price": "R$ 17,79",
-    "onSale": false
-  },
-  {
-    "title": "Not Milk Integral Leite Vegetal 1 L",
-    "price": "R$ 15,89",
-    "onSale": false
-  },
-  {
-    "title": "Néctar de Pêssego Sem Açúcar Del Valle 1 L",
-    "price": "R$ 8,15",
-    "onSale": false
-  },
-  {
-    "title": "Chá Verde Mint Mystique Ahmad Tea London Caixa com 10 Sachês",
-    "price": "R$ 16,99",
-    "onSale": false
-  },
-  {
-    "title": "Gin Tônica Pink Amora Schweppes Mixed Lata 269ml",
-    "price": "R$ 6,69",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica com toque de Limão Siciliano FYs Lata 350ml",
-    "price": "R$ 2,89",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Colorado Appia 600ml Garrafa",
-    "price": "R$ 14,49",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Sukita Uva Garrafa 2L",
-    "price": "R$ 6,29",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Brahma Zero 350ml Lata",
-    "price": "R$ 3,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Patagonia Amber Lager Lata 350 ml",
-    "price": "R$ 6,19",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Brahma Duplo Malte 269ml Lata",
-    "price": "R$ 3,29",
-    "onSale": false
-  },
-  {
-    "title": "Gin Tônica Schweppes Mixed Lata 269ml",
-    "price": "R$ 6,69",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Tinto Suave Altue Cabernet Sauvignon 750ml",
-    "price": "R$ 44,99",
-    "onSale": false
-  },
-  {
-    "title": "Espumante Rosé Miolo Cuvée Tradition Chardonnay Pinot Noir Vale dos Vinhedos 750ml",
-    "price": "R$ 84,90",
-    "onSale": false
-  },
-  {
-    "title": "Drink Pronto Beats Caipirinha 269ml Lata",
-    "price": "R$ 5,99",
-    "onSale": false
-  },
-  {
-    "title": "Espumante Salton Demi-Sec Branco Chardonnay e Trebbiano 750ml",
-    "price": "R$ 39,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Antarctica Sub Zero Pilsen Lata 350ml",
-    "price": "R$ 3,59",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Sukita Limão Garrafa 2L",
-    "price": "R$ 6,29",
-    "onSale": false
-  },
-  {
-    "title": "Energético Red Bull Morango e Pêssego 250ml",
-    "price": "R$ 9,89",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Becks Puro Malte 350ml Lata",
-    "price": "R$ 5,49",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Tinto Meio Seco Terroirs Du Monde Cabernet Sauvignon 750ml",
-    "price": "R$ 26,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Estrella Galicia Zero Álcool Lata 330ml",
-    "price": "R$ 5,39",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Baden Baden Pilsen Cristal Lata 350 ml",
-    "price": "R$ 6,39",
-    "onSale": false
-  },
-  {
-    "title": "Bebida Mista Alcoólica Gaseificada Spritz Schweppes Mixed Lata 269ml",
-    "price": "R$ 6,69",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Império Puro Malte Lager 275ml",
-    "price": "R$ 4,19",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Fanta Guaraná 2L",
-    "price": "R$ 7,99",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Heineken Lata 269ml",
-    "price": "R$ 4,49",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Heineken 330ml",
-    "price": "R$ 6,79",
-    "onSale": false
-  },
-  {
-    "title": "Rum Montilla Carta Ouro 1 L",
-    "price": "R$ 42,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Brahma Malzbier 350ml",
-    "price": "R$ 4,69",
-    "onSale": false
-  },
-  {
-    "title": "Suco de Goiaba Maguary 500ml",
-    "price": "R$ 7,35",
-    "onSale": false
-  },
-  {
-    "title": "Conhaque Dreher 900ml",
-    "price": "R$ 24,49",
-    "onSale": false
-  },
-  {
-    "title": "Energético Red Bull Energy Drink 473ml",
-    "price": "R$ 16,89",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Baden Baden Peach Lata 350ml",
-    "price": "R$ 6,39",
-    "onSale": false
-  },
-  {
-    "title": "Coca-Cola Pet 1 L",
-    "price": "R$ 6,79",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Zero Açúcar Schweppes Lata 220ml",
-    "price": "R$ 2,99",
-    "onSale": false
-  },
-  {
-    "title": "Vodka Orloff Nacional 1 L",
-    "price": "R$ 38,90",
-    "onSale": false
-  },
-  {
-    "title": "Espumante Salton Brut Poética Rosé 750ml",
-    "price": "R$ 39,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Puro Malte Petra Origem Lata 269ml",
-    "price": "R$ 2,59",
-    "onSale": false
-  },
-  {
-    "title": "Polpa de Maracujá Polpanorte 100g",
-    "price": "R$ 8,09",
-    "onSale": false
-  },
-  {
-    "title": "Água Tônica Antarctica Garrafa 1L",
-    "price": "R$ 7,49",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Itubaína Tutti Frutti Retrô Garrafa 355ml",
-    "price": "R$ 3,29",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Appia Colorado 350ml Lata",
-    "price": "R$ 6,49",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Branco Português Do Porto Pitters Ruby 750 ml",
-    "price": "R$ 79,99",
-    "onSale": false
-  },
-  {
-    "title": "Whisky Passport Scotch Escocês 1 L",
-    "price": "R$ 85,90",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Guaraná Antarctica Garrafa 600ML",
-    "price": "R$ 4,39",
-    "onSale": false
-  },
-  {
-    "title": "Néctar Del Valle Manga Caixa 1 L",
-    "price": "R$ 8,69",
-    "onSale": false
-  },
-  {
-    "title": "Refrigerante Itubaína Tutti Frutti Retrô Lata 350ml",
-    "price": "R$ 2,69",
-    "onSale": false
-  },
-  {
-    "title": "Vinho Tinto Chileno 18 Valle del Maule Cabernet Sauvignon Gran Reserva 750 ml",
-    "price": "R$ 42,45",
-    "onSale": false
-  },
-  {
-    "title": "Vodka Smirnoff 1.75L",
-    "price": "R$ 56,90",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Blue Moon Lata 350ml",
-    "price": "R$ 8,99",
-    "onSale": false
-  },
-  {
-    "title": "Coca-Cola de Vidro 250ml",
-    "price": "R$ 3,89",
-    "onSale": false
-  },
-  {
-    "title": "Cerveja Colorado Indica 600ml Garrafa",
-    "price": "R$ 14,49",
-    "onSale": false
-  }
+  [
+    {
+      "title": "Whisky Old Parr 750ml",
+      "price": "R$ 143,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Blonde 750ml",
+      "price": "R$ 119,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 1L",
+      "price": "R$ 164,90",
+      "onSale": false
+    },
+    {
+      "title": "Gin Tanqueray London Dry 750ml",
+      "price": "R$ 124,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Chivas Regal Escocês 12 Anos 1 L",
+      "price": "R$ 174,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Red Label 750ml",
+      "price": "R$ 82,90",
+      "onSale": false
+    },
+    {
+      "title": "Guaraná Antarctica Garrafa 200 ml",
+      "price": "R$ 1,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Lager Premium Puro Malte Amstel Lata 350ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Aperitivo Bitter Campari 748ml",
+      "price": "R$ 61,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante h2oh Limão Garrafa 1,5L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Lata 220 ml",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Red Label 500 ml",
+      "price": "R$ 54,90",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Smirnoff 998ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Buchanan's Deluxe 12 Anos 750ml",
+      "price": "R$ 171,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Gold Label Reserve 750ml",
+      "price": "R$ 319,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Red Label 1L",
+      "price": "R$ 109,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Zero Lactose Morango YoPRO 15g Shake 250 ml",
+      "price": "R$ 7,15",
+      "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
+    },
+    {
+      "title": "Bebida Láctea Cappuccino Zero Lactose Yopro Energy Boost 250ml",
+      "price": "R$ 7,09",
+      "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
+    },
+    {
+      "title": "Whisky Jack Daniel's Tennessee Fire 1 L",
+      "price": "R$ 164,90",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Antarctica Diet 350ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Pilsen Brahma Chopp Lata 350ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica 1,5L Garrafa",
+      "price": "R$ 6,59",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Café Expresso Zero Lactose Yopro Energy Boost 250ml",
+      "price": "R$ 7,09",
+      "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
+    },
+    {
+      "title": "Whisky Ballantine's Finest Blended Escocês – 750 ml",
+      "price": "R$ 84,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Sem Açúcar Pet 200 ml",
+      "price": "R$ 1,79",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Buchanan's Deluxe 12 Anos 1L",
+      "price": "R$ 214,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Amstel Ultra Lata 269ml",
+      "price": "R$ 4,19",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Black Sem Açúcar 350ml Lata",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin Gordon's London Dry 750ml",
+      "price": "R$ 79,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser American Lager 330ml Long Neck",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser American Lager Lata 269 ml",
+      "price": "R$ 3,19",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Antarctica 350ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Coronita Long Neck 210ml",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Casal Garcia 750ml",
+      "price": "R$ 64,90",
+      "onSale": false
+    },
+    {
+      "title": "Smirnoff Ice 275ml",
+      "price": "R$ 7,79",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Cerveja Corona Extra Pilsen 330ml Long Neck",
+      "price": "R$ 7,19",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 1,5L",
+      "price": "R$ 6,59",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante h2oh Limoneto Garrafa 1,5L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Lager Premium Puro Malte Stella Artois 330ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Munich Helles Puro Malte Spaten Lata 269ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Sem Açúcar Lata 350ML",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante ANTARCTICA Guaraná Lata 350ML",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Integral Carrefour Classic 1,5L",
+      "price": "R$ 22,49",
+      "onSale": false
+    },
+    {
+      "title": "Aperol Aperitivo Spritz 750ml",
+      "price": "R$ 65,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Zero Garrafa 330ml",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Pack Cerveja Pilsen Antarctica Original Lata 15 Unidades 269ml Cada Embalagem Econômica",
+      "price": "R$ 47,85",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Casa Crebar 2018 Cabernet Sauvignon 750ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Corona Pilsen Lata 350ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Minalba 1,5 Litros",
+      "price": "R$ 3,89",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás Minalba 1,5 Litros",
+      "price": "R$ 4,15",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Gatorade Morango com Maracujá 500ml Garrafa",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Sem Açúcar Vidro 250 ml",
+      "price": "R$ 3,89",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Carrefour 1 Litro",
+      "price": "R$ 9,79",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Double Black 1L",
+      "price": "R$ 249,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Old Parr 1L",
+      "price": "R$ 179,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle 100% Uva TP 1L",
+      "price": "R$ 17,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Garrafa 600ml",
+      "price": "R$ 12,69",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Gatorade Uva 500ml Garrafa",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Black Sabor Cola sem Açúcares Garrafa 1,5L",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Água De Coco Kero Coco Caixa 1L",
+      "price": "R$ 15,99",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Minalba 10 Litros",
+      "price": "R$ 17,95",
+      "onSale": false
+    },
+    {
+      "title": "Chá Matte Leão Original 1,5L",
+      "price": "R$ 8,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 900ml",
+      "price": "R$ 18,59",
+      "onSale": false
+    },
+    {
+      "title": "Chá Ice Tea Leão Pêssego 1,5L",
+      "price": "R$ 7,75",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Smirnoff 600ml",
+      "price": "R$ 26,90",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Schweppes sem Açúcar Lata 350 ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Sem Açúcar Pet 1 L",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Chá Matte Leão Limão Zero 1,5L",
+      "price": "R$ 8,59",
+      "onSale": false
+    },
+    {
+      "title": "Chá Mate Ice Tea Leão Limão Zero 1,5 L",
+      "price": "R$ 7,75",
+      "onSale": false
+    },
+    {
+      "title": "Chá Matte Leão Limão 1,5L",
+      "price": "R$ 8,39",
+      "onSale": false
+    },
+    {
+      "title": "Chá Ice Tea Leão Limão 1,5L",
+      "price": "R$ 7,75",
+      "onSale": false
+    },
+    {
+      "title": "Coca Cola Sem Açúcar Lata 310 ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Frescca 1,5 Litros",
+      "price": "R$ 2,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Garrafa 250 ml",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Lager Puro Malte Zero Álcool Heineken Lata 269ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Schweppes 350ML",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sprite Lemon Fresh 1,5L",
+      "price": "R$ 7,29",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Nestlé Pureza Vital 1,5 Litros",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 2L",
+      "price": "R$ 9,39",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Garrafa 2L",
+      "price": "R$ 9,39",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Chivas Regal Escocês 12 Anos 750 ml",
+      "price": "R$ 147,90",
+      "onSale": false
+    },
+    {
+      "title": "Chá Lipton Ice Tea Limão Garrafa 1,5L",
+      "price": "R$ 6,69",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Twist Garrafa 2L",
+      "price": "R$ 8,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Skol Pilsen Lata 269ml",
+      "price": "R$ 2,89",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken 350ml Sleek",
+      "price": "R$ 5,79",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Sem Açúcar 350ML",
+      "price": "R$ 3,89",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 600ML",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Drink Pronto Beats Senses 269ml Lata",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Original Pilsen 600ml Garrafa",
+      "price": "R$ 9,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Black Label 1L",
+      "price": "R$ 209,90",
+      "onSale": false
+    },
+    {
+      "title": "Gin Tanqueray Sevilla 700ml",
+      "price": "R$ 127,45",
+      "onSale": false
+    },
+    {
+      "title": "Whisky White Horse 8 Anos Garrafa 1L",
+      "price": "R$ 79,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Chopp Pilsen 269ml Lata Pack Caixa 15",
+      "price": "R$ 38,85",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Trivento Reserve Malbec Mendoza 750 ml",
+      "price": "R$ 64,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 1,5 Litros",
+      "price": "R$ 21,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Maracujá Maguary 500ml",
+      "price": "R$ 11,25",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Black Garrafa 2L",
+      "price": "R$ 8,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Amstel Lata 269ml",
+      "price": "R$ 3,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Antarctica Pilsen Lata 350ml",
+      "price": "R$ 3,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja American Lager Puro Malte Petra Origem Lata 350ml",
+      "price": "R$ 3,19",
+      "onSale": false
+    },
+    {
+      "title": "Ice 51 Morango e Laranja 275 ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden IPA Lata 350 ml",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Soda Limonada Antarctica Garrafa 2L",
+      "price": "R$ 8,15",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Laranja Garrafa 2L",
+      "price": "R$ 6,29",
+      "onSale": false
+    },
+    {
+      "title": "Energético Melancia Baly Garrafa 2 L",
+      "price": "R$ 12,89",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Crystal 5 L",
+      "price": "R$ 10,95",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Zero Álcool Long Neck 330ml",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Suco Kapo Uva 200ML",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Suco Kapo Morango 200ML",
+      "price": "R$ 2,59",
+      "onSale": false
+    },
+    {
+      "title": "Schweppes Citrus leve em Açúcares 350ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Tinto Maguary Seleção 1,35 Litros",
+      "price": "R$ 18,49",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Chocolate Pirakids Caixa 200 ml",
+      "price": "R$ 1,39",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás Frutas Vermelhas Crystal Sparkling Pet 510 ml",
+      "price": "R$ 3,25",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Sol Premium Long Neck 330ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Chopp Draft Grape True Fruit 600 ml",
+      "price": "R$ 10,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Spaten Puro Malte 355ml Long Neck",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Twist Lata 350ML",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Zero Açúcar Antarctica 1 L",
+      "price": "R$ 7,49",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Cerveja Antarctica Pilsen Lata 350ml",
+      "price": "R$ 3,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja American Lager Puro Malte Petra Origem Lata 350ml",
+      "price": "R$ 3,19",
+      "onSale": false
+    },
+    {
+      "title": "Ice 51 Morango e Laranja 275 ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden IPA Lata 350 ml",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Soda Limonada Antarctica Garrafa 2L",
+      "price": "R$ 8,15",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Laranja Garrafa 2L",
+      "price": "R$ 6,29",
+      "onSale": false
+    },
+    {
+      "title": "Energético Melancia Baly Garrafa 2 L",
+      "price": "R$ 12,89",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Crystal 5 L",
+      "price": "R$ 10,95",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Zero Álcool Long Neck 330ml",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Suco Kapo Uva 200ML",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Suco Kapo Morango 200ML",
+      "price": "R$ 2,59",
+      "onSale": false
+    },
+    {
+      "title": "Schweppes Citrus leve em Açúcares 350ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Tinto Maguary Seleção 1,35 Litros",
+      "price": "R$ 18,49",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Chocolate Pirakids Caixa 200 ml",
+      "price": "R$ 1,39",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás Frutas Vermelhas Crystal Sparkling Pet 510 ml",
+      "price": "R$ 3,25",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Sol Premium Long Neck 330ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Chopp Draft Grape True Fruit 600 ml",
+      "price": "R$ 10,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Spaten Puro Malte 355ml Long Neck",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Twist Lata 350ML",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Zero Açúcar Antarctica 1 L",
+      "price": "R$ 7,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle Néctar Laranja 1L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle Néctar Pêssego 1L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Uva Maguary 1 Litro",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Pilsen Puro Malte Unfiltered Garrafa 355ml",
+      "price": "R$ 5,09",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Black Label 750ml",
+      "price": "R$ 139,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Antarctica Guaraná Garrafa 1L RegulaR",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida à Base de Aveia Orgânica Nude 1L",
+      "price": "R$ 18,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Tennessee Honey 1 L",
+      "price": "R$ 164,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Rosé Panul Clássico Viñedos Marchigue 750ml",
+      "price": "R$ 32,99",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Sem Açúcar 6 Unidades 350 ml Cada Pack Leve Mais Pague Menos",
+      "price": "R$ 22,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia IPA 350ml Lata",
+      "price": "R$ 6,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Argentino Chardonnay Exclusivo Carrefour 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja de Trigo Hoegaarden Lata 269ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rose Argentino Suelo Malbec 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Uht Chocolate Toddynho Caixa 200Ml",
+      "price": "R$ 2,95",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Chocolate Toddynho Levinho 200ml",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Terroirs Du Monde Merlot 750ml",
+      "price": "R$ 26,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Witbier Lata 350 ml",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Maracujá Dafruta 500ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Panul Chardonnay Garrafa 750ml",
+      "price": "R$ 32,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Limonada Soda Antarctica Garrafa 200 ml",
+      "price": "R$ 1,49",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Café Espresso Plus Lata 220 ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Soda Limonada Antarctica Zero Lata 350ML",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Itaipava Lager 350ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Pilsen Puro Malte Long Neck 355ml",
+      "price": "R$ 5,09",
+      "onSale": false
+    },
+    {
+      "title": "Bebida à Base de Aveia Orgânica Nude Baunilha 1L",
+      "price": "R$ 18,90",
+      "onSale": false
+    },
+    {
+      "title": "Kit Refrigerante Coca-Cola Original + Fanta Laranja 2 L Cada",
+      "price": "R$ 17,79",
+      "onSale": false
+    },
+    {
+      "title": "Not Milk Integral Leite Vegetal 1 L",
+      "price": "R$ 15,89",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Pêssego Sem Açúcar Del Valle 1 L",
+      "price": "R$ 8,15",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Uva Garrafa 2L",
+      "price": "R$ 6,29",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Mint Mystique Ahmad Tea London Caixa com 10 Sachês",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin Tônica Pink Amora Schweppes Mixed Lata 269ml",
+      "price": "R$ 6,69",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica com toque de Limão Siciliano FYs Lata 350ml",
+      "price": "R$ 2,89",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Colorado Appia 600ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Zero 350ml Lata",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin Tônica Schweppes Mixed Lata 269ml",
+      "price": "R$ 6,69",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Amber Lager Lata 350 ml",
+      "price": "R$ 6,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Duplo Malte 269ml Lata",
+      "price": "R$ 3,29",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Altue Cabernet Sauvignon 750ml",
+      "price": "R$ 44,99",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Rosé Miolo Cuvée Tradition Chardonnay Pinot Noir Vale dos Vinhedos 750ml",
+      "price": "R$ 84,90",
+      "onSale": false
+    },
+    {
+      "title": "Drink Pronto Beats Caipirinha 269ml Lata",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Limão Garrafa 2L",
+      "price": "R$ 6,29",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Salton Demi-Sec Branco Chardonnay e Trebbiano 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Antarctica Sub Zero Pilsen Lata 350ml",
+      "price": "R$ 3,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Pilsen Cristal Lata 350 ml",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Morango e Pêssego 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Becks Puro Malte 350ml Lata",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Estrella Galicia Zero Álcool Lata 330ml",
+      "price": "R$ 5,39",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Spritz Schweppes Mixed Lata 269ml",
+      "price": "R$ 6,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Terroirs Du Monde Cabernet Sauvignon 750ml",
+      "price": "R$ 26,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Fanta Guaraná 2L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Império Puro Malte Lager 275ml",
+      "price": "R$ 4,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Lata 269ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken 330ml",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Rum Montilla Carta Ouro 1 L",
+      "price": "R$ 42,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Malzbier 350ml",
+      "price": "R$ 4,69",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Goiaba Maguary 500ml",
+      "price": "R$ 7,35",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Energy Drink 473ml",
+      "price": "R$ 16,89",
+      "onSale": false
+    },
+    {
+      "title": "Conhaque Dreher 900ml",
+      "price": "R$ 24,49",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Pet 1 L",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Zero Açúcar Schweppes Lata 220ml",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Orloff Nacional 1 L",
+      "price": "R$ 38,90",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Salton Brut Poética Rosé 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Peach Lata 350ml",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Antarctica Garrafa 1L",
+      "price": "R$ 7,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Itubaína Tutti Frutti Retrô Garrafa 355ml",
+      "price": "R$ 3,29",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Puro Malte Petra Origem Lata 269ml",
+      "price": "R$ 2,59",
+      "onSale": false
+    },
+    {
+      "title": "Polpa de Maracujá Polpanorte 100g",
+      "price": "R$ 8,09",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Appia Colorado 350ml Lata",
+      "price": "R$ 6,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Português Do Porto Pitters Ruby 750 ml",
+      "price": "R$ 79,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Garrafa 600ML",
+      "price": "R$ 4,39",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Passport Scotch Escocês 1 L",
+      "price": "R$ 85,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Del Valle Manga Caixa 1 L",
+      "price": "R$ 8,69",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Itubaína Tutti Frutti Retrô Lata 350ml",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno 18 Valle del Maule Cabernet Sauvignon Gran Reserva 750 ml",
+      "price": "R$ 42,45",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Smirnoff 1.75L",
+      "price": "R$ 56,90",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola de Vidro 250ml",
+      "price": "R$ 3,89",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Blue Moon Lata 350ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Colorado Indica 600ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Garrafa 3L",
+      "price": "R$ 11,49",
+      "onSale": false
+    },
+    null
+  ],
+  [
+    {
+      "title": "Bebida Láctea UHT com Coco Zero Lactose Piracanjuba Whey 250ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Cachaça Cristalina Sagatiba 700ml",
+      "price": "R$ 29,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Frutas Vermelhas Zero Lactose Piracanjuba Whey Caixa 250 ml",
+      "price": "R$ 8,29",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Terra Nova Brut 750ml",
+      "price": "R$ 51,99",
+      "onSale": false
+    },
+    {
+      "title": "Espuma de Gengibre Zero Açúcares Easy Drinks 260g",
+      "price": "R$ 43,89",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante ANTARCTICA Guaraná Garrafa 2,5L",
+      "price": "R$ 9,99",
+      "onSale": false
+    },
+    {
+      "title": "Energético Baly Garrafa 2 L",
+      "price": "R$ 12,89",
+      "onSale": false
+    },
+    {
+      "title": "Powerade Sabor Mix de Frutas 500 ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Maracujá Maguary 1 Litro",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Chá Ice Tea Pêssego Leão Garrafa 450 ml",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Baunilha Zero Lactose Yopro Shake 250ml",
+      "price": "R$ 7,09",
+      "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
+    },
+    {
+      "title": "Refrigerante Tubaína Sukita Garrafa 2 L",
+      "price": "R$ 6,29",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral Natural sem Gás Ama Garrafa 1,5L",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Espuma de Café Mocha & Vanilla Easy Drinks 260g",
+      "price": "R$ 43,89",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Vino Di Bartolo 2019 Uvas Americanas 750ml",
+      "price": "R$ 17,25",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Jungle Morango com Limão 500ml",
+      "price": "R$ 8,99",
+      "onSale": "LEVE 5 PAGUE 4\nBadge da promoção LEVE 5 PAGUE 4"
+    },
+    {
+      "title": "Água Tônica Schweppes Pet 1,5 L",
+      "price": "R$ 8,69",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Lagunitas IPA Lata 350ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Energy Ultra White Sem Açúcar 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi 2,5L Garrafa Pet",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Sem Açúcar 355ml",
+      "price": "R$ 13,39",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Sem Açúcar Pet 2 L",
+      "price": "R$ 10,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Garrafa 2 L",
+      "price": "R$ 11,25",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle Néctar Cajú Sem Açúcar 1L",
+      "price": "R$ 6,55",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Rosé Frutas Vermelhas Schweppes Lata 220ml",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Pale Ale Puro Malte Lata 350ml",
+      "price": "R$ 5,69",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle Néctar Uva Sem Açúcar 1L",
+      "price": "R$ 8,15",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle Néctar Uva 1L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi 1,5L Garrafa Pet",
+      "price": "R$ 6,39",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Isla Grande Reserva Pincoya Carménère Valle del Maipo 750 ml",
+      "price": "R$ 39,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Weisse 740ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Pilsen Moema Lt 350ml",
+      "price": "R$ 2,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Merlot Casa Crebar - 750 ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Black & White 1L",
+      "price": "R$ 89,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Uva Light Maguary 1 Litro",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Banana Zero Lactose Piracanjuba Whey Caixa 250 ml",
+      "price": "R$ 8,29",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Pale Ale Puro Malte Long Neck 355ml",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida à Base de Aveia Orgânica Nude Cacau 1L",
+      "price": "R$ 18,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Kaiser Pilsen Lata 350ml",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Limão Siciliano FYs Lata 350ml",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Estrella Galicia Puro Malte Lager Lata 350ml",
+      "price": "R$ 5,39",
+      "onSale": false
+    },
+    {
+      "title": "Bebida à Base de Amêndoa Baunilha Blue Diamond Almond Breeze Caixa 1 L",
+      "price": "R$ 16,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado Manga Da Fruta 500 ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Maracujá Del Valle 1 L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Chá Mate Real Natural Com 250g",
+      "price": "R$ 10,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Session IPA Long Neck 355ml",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Novecento Doce Branco 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Dante Robino Bonarda 750ml",
+      "price": "R$ 69,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi Garrafa 3L",
+      "price": "R$ 10,99",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Del Valle Abacaxi Caixa 1 L",
+      "price": "R$ 6,55",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica Lata 269ML",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Goiaba Maguary 1 Litro",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Trauco Isla Grande Merlot Valle Central 750 ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Bohemian Pilsener, 740ml, Garrafa",
+      "price": "R$ 14,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Conde de Cortes 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Blend de Blancas Novecento 750ml",
+      "price": "R$ 44,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Therezopolis Elfenbein Weiss Garrafa 500ml",
+      "price": "R$ 11,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi 600ml Garrafa Pet",
+      "price": "R$ 4,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden American IPA Puro Malte Garrafa 600ml",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Líquido para Bebida Alcoólica Whisky Sour Gold & Apple Easy Drinks 240g",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Pincoya Isla Grande Valle del Maipo Cabernet Sauvignon Reserva 750 ml",
+      "price": "R$ 98,99",
+      "onSale": false
+    },
+    {
+      "title": "Energético à Base de Taurina e Cafeína Frutas Tropicais Fusion 473ml",
+      "price": "R$ 5,79",
+      "onSale": false
+    },
+    {
+      "title": "Chá Orgânico Mate Tostado Laranja Carrefour Bio 10 Sachês",
+      "price": "R$ 4,09",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Meio Seco Português Real Grei 750 ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Carrefour Viver Castanha Caju 1L",
+      "price": "R$ 13,89",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Maçã Maguary 1L",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Cajú Maguary 1 Litro",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Cappuccino Chocolate e Canela com Café Nescafé Frasco 270ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Amber Lager 355ml Long Neck",
+      "price": "R$ 7,35",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Limão Bioleve Zero Garrafa 1,5 L",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Laranja Maguary 1 Litro",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Bohemian Pilsener Lager Long Neck 355ml",
+      "price": "R$ 7,19",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Frutah 2L",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja IPA Puro Malte Jade Therezópolis Garrafa Com 500ml",
+      "price": "R$ 11,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Fanta Guaraná 220ML",
+      "price": "R$ 2,39",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Líquido para Bebida Alcoólica Easy Drinks Limão Moscow Mule 270g",
+      "price": "R$ 31,89",
+      "onSale": false
+    },
+    {
+      "title": "Energético Bad Boy Energy Drink Zero Açúcares 473ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Laranja Frutah 2L",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn American IPA Puro Malte Lata 350ml",
+      "price": "R$ 5,69",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Líquido para Bebida Alcoólica Penincillin Easy Drinks 450g",
+      "price": "R$ 31,89",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Soda Limonada Antarctica Garrafa 600ML",
+      "price": "R$ 4,19",
+      "onSale": false
+    },
+    {
+      "title": "Energético à Base de Taurina e Cafeína Melancia Fusion Lata 473ml",
+      "price": "R$ 5,79",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi 269ml Lata",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Bebida à Base de Aveia Nude Barista 1L",
+      "price": "R$ 18,90",
+      "onSale": false
+    },
+    {
+      "title": "Cappuccino Tradicional Carrefour SC 200g",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Preparado de Frutas Sabor Lichia Easy Drinks 100g",
+      "price": "R$ 8,79",
+      "onSale": false
+    },
+    {
+      "title": "Espuma de Limão Siciliano Easy Drinks 260g",
+      "price": "R$ 43,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Nescafé Cappuccino Clássico 270ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Maçã Verde e Limão Zero Açúcar Bioleve Garrafa1,5L",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Mexerica e Limão Bioleve Zero Garrafa 1,5 L",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Espuma de Gengibre Easy Drinks 260g",
+      "price": "R$ 41,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin Gordon's London Dry 750ml + Xarope Maçã Verde Mathieu Teisseire Garrafa 700 ml",
+      "price": "R$ 139,89",
+      "onSale": false
+    },
+    {
+      "title": "Energético Bad Boy Energy Drink Original 473ml",
+      "price": "R$ 6,98",
+      "onSale": false
+    },
+    {
+      "title": "Espuma de Grapefruit com Hibisco Easy Drinks 260g",
+      "price": "R$ 36,29",
+      "onSale": false
+    },
+    {
+      "title": "Chá Preto Ice Tea Pêssego Leão Zero Pet 450 ml",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Sabor Coco Carrefour Classic 150ml",
+      "price": "R$ 2,19",
+      "onSale": false
+    },
+    {
+      "title": "Energético Fusion 473ml",
+      "price": "R$ 5,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Nescafé Latte 270ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Líquido para Bebida Alcoólica Cosmopolitan Easy Drinks 240g",
+      "price": "R$ 43,89",
+      "onSale": false
+    },
+    {
+      "title": "Chá Sabor Rosa Silvestre, Hibisco e Cereja Ahmad Tea London Fruit & Herb Caixa com 10 Sachês",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Weisse, 355ml, Long Neck",
+      "price": "R$ 7,19",
+      "onSale": false
+    },
+    {
+      "title": "Especiarias para Drinks Sabor Frutas Vermelhas Easy Drinks 16g",
+      "price": "R$ 11,09",
+      "onSale": false
+    },
+    {
+      "title": "Preparado de Frutas Sabor Morango Pitaya Easy Drinks 100g",
+      "price": "R$ 8,79",
+      "onSale": false
+    },
+    {
+      "title": "Água Tônica Prata 269ml",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Carrefour Viver Cacau 1L",
+      "price": "R$ 14,89",
+      "onSale": false
+    },
+    {
+      "title": "Energético Bad Boy Energy Drink Sabor Manga 473ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Licor Stock Creme de Cassis 720 ml",
+      "price": "R$ 58,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Carrefour Viver Barrista 1L",
+      "price": "R$ 14,89",
+      "onSale": false
+    },
+    {
+      "title": "Cafe Melitta Soluvel Extra Forte Sachê Com 40g",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral Crystal Sem Gás 1,5L",
+      "price": "R$ 3,55",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Original Pilsen 350ml Lata",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Energy Drink 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Original 1,5L",
+      "price": "R$ 9,59",
+      "onSale": false
+    },
+    {
+      "title": "Achocolatado em Pó Nescau Cilíndrico 350g",
+      "price": "R$ 17,65",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Crystal 500 ml",
+      "price": "R$ 2,45",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Natural One Special Blend 1,5 Litros",
+      "price": "R$ 22,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser American Lager 350ml Lata",
+      "price": "R$ 3,79",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Premium Pilsen Lager 330ml 24 Unidades",
+      "price": "R$ 162,96",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Duplo Malte Puro Malte 350ml Lata",
+      "price": "R$ 3,79",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Café em Pó 3 Corações Gourmet Sul de Minas 250g",
+      "price": "R$ 23,45",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Spaten Lata Sleek 350 ml",
+      "price": "R$ 4,39",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Cabernet Sauvignon Siete Soles - 750 ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's 700ml",
+      "price": "R$ 144,90",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Zero 2 Litros 6 Unidades",
+      "price": "R$ 65,94",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Sem Açúcar 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Corona Cero Sunbrew N Long Neck 330-ml",
+      "price": "R$ 7,19",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás São Lourenço 1,26 Litros",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva e Maçã Integral Refrigerado Natural One 100% Suco 1,5 Litros",
+      "price": "R$ 29,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Michelob Ultra Superior Light Beer Lata 350ml",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Keg 5L",
+      "price": "R$ 101,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Cappuccino Clássico com Café, Cacau e Canela Zero Lactose sem Açúcar 3 Corações Power Whey 250ml",
+      "price": "R$ 8,15",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Pilsen Original Lata 269ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Arroz Parboilizado Longo Fino Tipo 1 Carrefour 1Kg",
+      "price": "R$ 6,05",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante h2oh Limoneto Garrafa 500ML",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Concha Y Toro Reservado Cabernet Sauvignon 750 ml",
+      "price": "R$ 33,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Uva Maguary Fruit Shoot Caixa 150 ml",
+      "price": "R$ 2,15",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Integral Refrigerado Natural One 100% Suco 300ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Frisante Carmelina Lambrusco 750ml",
+      "price": "R$ 35,65",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal A Tal da Castanha Original 1L",
+      "price": "R$ 23,99",
+      "onSale": "30% OFF NA 2 UN\nBadge da promoção 30% OFF NA 2 UN"
+    },
+    {
+      "title": "Energético Monster Energy Green 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Cappuccino Chocolate com Café e Cacau 3 Corações Power Whey 250ml",
+      "price": "R$ 8,09",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Fanta Laranja 2L",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Kit 1 Coca-Cola Original + 1 Fanta Guaraná 2L",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Mais Coco 1 Litro",
+      "price": "R$ 13,25",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sprite Original 2L",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Café Torrado e Moído a Vácuo Italiano Pilão Cafeteria Pacote 500 g",
+      "price": "R$ 32,15",
+      "onSale": false
+    },
+    {
+      "title": "Café em Cápsula NESCAFÉ DOLCE GUSTO Cappuccino 10 Cápsulas",
+      "price": "R$ 26,89",
+      "onSale": "LEVE 4 PAGUE 3\nBadge da promoção LEVE 4 PAGUE 3"
+    },
+    {
+      "title": "Água de Coco Carrefour 200ml",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea 15g Proteínas Sabor Baunilha Carrefour Sensation Whey 250ml",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Energético Frutas Vermelhas Zero Açúcar Red Bull The Spring Edition Lata 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva e Maçã Integral Refrigerado Natural One 100% Suco 900ml",
+      "price": "R$ 19,89",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Ballantine's Finest Blended Escocês - 1 litro",
+      "price": "R$ 98,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Red Blend Faisão Com 750ml",
+      "price": "R$ 16,35",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Maçã Integral Refrigerado Natural One 100% Suco 900ml",
+      "price": "R$ 18,59",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Laranja 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Gin Tanqueray Royale Dark Berry 700ml",
+      "price": "R$ 124,90",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Zero Açúcar 350ml - 12 Unidades",
+      "price": "R$ 46,68",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto Uva e Maçã sem Adição de Açúcar Natural One Ambiente 1,5L",
+      "price": "R$ 23,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto de Uva e Maça Classic Carrefour 1.5 L",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Chileno Conca y Toro Reservado Sweet Red 750 ml",
+      "price": "R$ 33,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea 15g Proteínas Sabor Chocolate Carrefour Sensation Whey 250ml",
+      "price": "R$ 5,15",
+      "onSale": false
+    },
+    {
+      "title": "Gatorade Sabor Laranja-Lima Atividades Diárias 350ml",
+      "price": "R$ 3,95",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Casal Garcia 750ml",
+      "price": "R$ 64,90",
+      "onSale": false
+    },
+    {
+      "title": "Kit Refrigerante Coca-Cola Sem Açúcar Pet 200 ml 12 Unidades",
+      "price": "R$ 21,48",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Rum Xeque Mate 355ml",
+      "price": "R$ 9,99",
+      "onSale": false
+    },
+    {
+      "title": "Aperitivo Lillet Blanc de Vinho Francês 750ml",
+      "price": "R$ 124,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Italiano Rose Carmelina Lambrusco 750 ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal A Tal da Castanha Amêndoa 1L",
+      "price": "R$ 23,99",
+      "onSale": "30% OFF NA 2 UN\nBadge da promoção 30% OFF NA 2 UN"
+    },
+    {
+      "title": "Kit Cerveja Corona Extra Pilsen 330ml Long Neck 24 Unidades",
+      "price": "R$ 172,56",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Tropical 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Siete Soles Carmenere 750 ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Clight Sem Açúcar Limonada 8g",
+      "price": "R$ 2,05",
+      "onSale": false
+    },
+    {
+      "title": "Energético à Base de Taurina e Cafeína Zero Açúcar Monster 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Gin Gordon's Pink 700ml",
+      "price": "R$ 79,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Skol Pilsen Lata 269ml Pack 15 Unidades",
+      "price": "R$ 43,35",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Uva 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Água De Coco Com Polpa Viver Tp 1L",
+      "price": "R$ 11,59",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Gatorade Limão 500ml Garrafa",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Império Puro Malte Pilsen 269ml",
+      "price": "R$ 2,59",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Absolut - 750 ml",
+      "price": "R$ 119,25",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto Uva e Maçã Natural One Ambiente Garrafa 180ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea 15g Proteínas Sabor Morango Carrefour Sensation Whey 250ml",
+      "price": "R$ 5,15",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Malbec Punta Negra La Parcela 750ml",
+      "price": "R$ 29,49",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Terroir Du Monde Moscatel Rose 750ml",
+      "price": "R$ 32,90",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Pasteurizada sem Adição de Açúcar OQ 1L",
+      "price": "R$ 15,99",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Limão 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Vinho Tinto Pardal Telhado 2019 750 ml",
+      "price": "R$ 36,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Integral Uva Tinto Aurora Garrafa 1,5 L",
+      "price": "R$ 29,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Quilmes Lata 350Ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Stella Artois Puro Malte 350ml Lata",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Casillero del Diablo Cabernet Sauvignon Reserva 750 ml",
+      "price": "R$ 59,90",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Heineken 350ml Sleek Com 24 Unidades",
+      "price": "R$ 138,96",
+      "onSale": false
+    },
+    {
+      "title": "Suco Kapo Laranja 200ML",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Cappuccino Doce de Leite 3 Corações Power Whey 15g 250ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Siete Soles - 750 ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Vermute Branco Martini Garrafa 750 ml",
+      "price": "R$ 47,59",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Minalba 1,5 Litros - 6 Unidades",
+      "price": "R$ 23,34",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Stella Artois Puro Malte 269ml Lata Pack Caixa 8",
+      "price": "R$ 31,92",
+      "onSale": false
+    },
+    {
+      "title": "Café Solúvel em Pó Espresso L'or Vidro 100 g",
+      "price": "R$ 39,29",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Melancia 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Americano 5 Anos Apple 1 L",
+      "price": "R$ 164,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Morango Maguary Fruit Shoot 150ML",
+      "price": "R$ 1,53",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Maracujá 18g",
+      "price": "R$ 1,35",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Energético Monster Energy Juice Mango Loco 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Sococo 1 Litro",
+      "price": "R$ 17,05",
+      "onSale": false
+    },
+    {
+      "title": "Chá Matte Leão Original Zero 1,5L",
+      "price": "R$ 8,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen Lager 350ml 12 Unidades",
+      "price": "R$ 44,28",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Concha Y Toro Reservado Sauvignon Blanc 750 ml",
+      "price": "R$ 33,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Garrafa 2 L 6 Unidades",
+      "price": "R$ 67,14",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Limão Siciliano com Hortelã Zero Açúcar Yaí 1L",
+      "price": "R$ 7,55",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Uva e Maçã Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Ducoco 1 Litro",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rose Meio Seco Espanhol Viña Losar Tempranillo 750 ml",
+      "price": "R$ 30,55",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado Maracujá Maguary Garrafa 1l",
+      "price": "R$ 19,69",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante h2oh limão Garrafa 500ML",
+      "price": "R$ 3,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Manto Blanco Sauvignon Blanc 750ml",
+      "price": "R$ 31,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Sem Lactose Whey Protein Italac Chocolate 15g",
+      "price": "R$ 6,05",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Uva Del Valle Caixa 200 ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Misto de Uva e Morango Tial 1L",
+      "price": "R$ 6,89",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Energético Red Bull Melancia 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Americano 5 Anos Apple 1 L",
+      "price": "R$ 164,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Morango Maguary Fruit Shoot 150ML",
+      "price": "R$ 1,53",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Maracujá 18g",
+      "price": "R$ 1,35",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Energético Monster Energy Juice Mango Loco 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Sococo 1 Litro",
+      "price": "R$ 17,05",
+      "onSale": false
+    },
+    {
+      "title": "Chá Matte Leão Original Zero 1,5L",
+      "price": "R$ 8,59",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen Lager 350ml 12 Unidades",
+      "price": "R$ 44,28",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Concha Y Toro Reservado Sauvignon Blanc 750 ml",
+      "price": "R$ 33,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Coca-Cola Garrafa 2 L 6 Unidades",
+      "price": "R$ 67,14",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Limão Siciliano com Hortelã Zero Açúcar Yaí 1L",
+      "price": "R$ 7,55",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Uva e Maçã Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Ducoco 1 Litro",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rose Meio Seco Espanhol Viña Losar Tempranillo 750 ml",
+      "price": "R$ 30,55",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado Maracujá Maguary Garrafa 1l",
+      "price": "R$ 19,69",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante h2oh limão Garrafa 500ML",
+      "price": "R$ 3,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Manto Blanco Sauvignon Blanc 750ml",
+      "price": "R$ 31,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Sem Lactose Whey Protein Italac Chocolate 15g",
+      "price": "R$ 6,05",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Uva Del Valle Caixa 200 ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Misto de Uva e Morango Tial 1L",
+      "price": "R$ 6,89",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Clight Sem Açúcar Uva 8g",
+      "price": "R$ 2,05",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rose Chileno Casillero del Diablo Reserva 750 ml",
+      "price": "R$ 60,55",
+      "onSale": false
+    },
+    {
+      "title": "Suco Del Valle 100% Laranja TP 1L",
+      "price": "R$ 18,35",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Maguary Fruit Shoot150ML",
+      "price": "R$ 1,53",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Meio Seco Português Real Grei Alentejo 750 ml",
+      "price": "R$ 35,90",
+      "onSale": false
+    },
+    {
+      "title": "Pack Bebida Láctea Instantânea Toddynho 200ml - 12 Unidades",
+      "price": "R$ 34,68",
+      "onSale": false
+    },
+    {
+      "title": "Café Solúvel Extra Forte Carrefour SC 100g",
+      "price": "R$ 8,79",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Cajú Dafruta 500ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Gatorade Sabor Frutas Silvestres Atividades Diárias 350ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Original Pilsen 350ml Lata 12 Unidades",
+      "price": "R$ 41,88",
+      "onSale": false
+    },
+    {
+      "title": "Fanta Uva Pet 2 L",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Premium Pilsen Lager 330ml - 48 Unidades",
+      "price": "R$ 325,92",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea de Chocolate Italakinho 200ml",
+      "price": "R$ 1,75",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Cappuccino Cookies'n Cream com Café e Cacau 3 Corações Power Whey 250ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto JP Azeitão 750ml",
+      "price": "R$ 40,75",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Integral OQ 1,5L",
+      "price": "R$ 26,55",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Life Mix Kids 200ml",
+      "price": "R$ 4,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Frisante Carmelina Lambrusco 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Frisante Suave Mioranza 750ml",
+      "price": "R$ 25,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel’s Honey 700ml",
+      "price": "R$ 134,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Ballantine's 10 Anos Blended Escocês - 750ml",
+      "price": "R$ 124,90",
+      "onSale": false
+    },
+    {
+      "title": "Cachaça Velho Barreiro 910 ml",
+      "price": "R$ 15,29",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás São Lourenço 300ml",
+      "price": "R$ 3,15",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Crystal 1,5 Litros - Pack com 8 Unidades",
+      "price": "R$ 25,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Natures Heart Castanha-de-Caju 1L",
+      "price": "R$ 17,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Lager Corona Extra 330 ml 48 unidades",
+      "price": "R$ 345,12",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Alpino 280ml",
+      "price": "R$ 6,89",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Fanta Laranja 350ML",
+      "price": "R$ 3,19",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Frutas Vermelhas Zero Açúcar Yaí 1L",
+      "price": "R$ 7,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Terroirs Du Monde Verde 2018 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Casillero del Diablo Sauvignon Blanc Reserva 750 ml",
+      "price": "R$ 61,15",
+      "onSale": false
+    },
+    {
+      "title": "Café Pilão Cápsula Forte 10 unidades",
+      "price": "R$ 23,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Salton Lunae 750ml",
+      "price": "R$ 22,90",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Orgânica Carrefour Bio 1 Litro",
+      "price": "R$ 14,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Carrefour Classic 750 ml",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Chá de Camomila e Capim-Limão Ahmad Tea London Fruit & Herb Caixa com 10 Sachês",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Chalise Isabel, Concord e Seibel 750ml",
+      "price": "R$ 14,90",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Sweet Dolce Moscato Natale Verga 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Nestlé Pureza Vital 510ml",
+      "price": "R$ 2,29",
+      "onSale": false
+    },
+    {
+      "title": "Cachaça 51 965ml",
+      "price": "R$ 14,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Laranja e Maçã Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Caju Maguary 500ml",
+      "price": "R$ 6,15",
+      "onSale": false
+    },
+    {
+      "title": "Àgua Mineral Saborizada com Gás Limão Crystal Pet 520 ml",
+      "price": "R$ 3,25",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Cranberry Juxx 1 Litro",
+      "price": "R$ 20,39",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Concha Y Toro Reservado Carménère 750 ml",
+      "price": "R$ 33,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Manto Blanco Carménère 750ml",
+      "price": "R$ 32,55",
+      "onSale": false
+    },
+    {
+      "title": "Café Torrado e Moído Tradicional Jardim 500 g",
+      "price": "R$ 21,95",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Energy Drink 250ml (4 latas)",
+      "price": "R$ 37,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Spaten Lata Sleek 350 ml 12 Unidades",
+      "price": "R$ 49,08",
+      "onSale": false
+    },
+    {
+      "title": "Suco Maçã Del Valle Caixa 200 ml",
+      "price": "R$ 3,89",
+      "onSale": false
+    },
+    {
+      "title": "Suco Manga Tial Caixa 1 Litro 1 Unidade",
+      "price": "R$ 6,89",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Terroir Du Monde Moscatel Brut Rose 750ml",
+      "price": "R$ 32,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Maguary Maracujá 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Aliança Dão 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Italiano Crte Magna Pinot Grigio 750 ml",
+      "price": "R$ 40,75",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Concentrado Sabor Groselha Carrefour 1 Litro",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Pitaya 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Manto Blanco Cabernet Sauvignon 750ml",
+      "price": "R$ 31,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Conde de Cortes DOC Dão 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Integral Del Valle 100% Suco de Uva 1 Litro - 3 Unidades",
+      "price": "R$ 53,97",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Laranja Garrafa 200ML",
+      "price": "R$ 1,49",
+      "onSale": false
+    },
+    {
+      "title": "Energético Maracujá & Melão Red Bull Lata 250ml The Summer Edition",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Red Label 1L 2 Unidades",
+      "price": "R$ 219,80",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás San Pellegrino 750ml",
+      "price": "R$ 23,89",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Brahma Duplo Malte Puro Malte 350ml Lata 24 Unidades",
+      "price": "R$ 86,16",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Gatorade Laranja 500ml Garrafa",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Morango 18g",
+      "price": "R$ 1,35",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Vinho Tinto Chileno Panul Cabernet Sauvignon Garrafa 750ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Orgânica Carrefour Bio 200ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Café com Leite em Pó Instantâneo Melitta 200g",
+      "price": "R$ 15,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Red Label 1L 3 Unidades",
+      "price": "R$ 329,70",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Seco Panul Safra 2019 Carménere Garrafa 750ml",
+      "price": "R$ 32,99",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Coco Quadrado Com 1L",
+      "price": "R$ 7,45",
+      "onSale": false
+    },
+    {
+      "title": "Casillero Del Diablo Reserva Cabernet Sauvignon 375ml",
+      "price": "R$ 35,90",
+      "onSale": false
+    },
+    {
+      "title": "Chá Branco Lichia Zero Açúcar Leão 1,5L",
+      "price": "R$ 8,25",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Panul Sauvignon Blanc Garrafa 750ml",
+      "price": "R$ 32,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Mioranza 750ml",
+      "price": "R$ 16,90",
+      "onSale": false
+    },
+    {
+      "title": "Erva-mate Chimarrão Tradicional Gaúcho Pacote 500g",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco 8Km Chardonnay 750ml",
+      "price": "R$ 30,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Chopp Pilsen 350ml 18 Latas",
+      "price": "R$ 59,22",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Energy Ultra Violet Sem Açúcar 473ml",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Chá Preto com Limão Leão 290 ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Leite em Pó Integral Piracanjuba 1kg",
+      "price": "R$ 42,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky The Glenlivet Founder's Reserve Single Malt Escocês - 750 ml",
+      "price": "R$ 324,90",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Integral Aqua Coco Garrafa 1 L",
+      "price": "R$ 17,49",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Maçã Verde Mathieu Teisseire Garrafa 700 ml",
+      "price": "R$ 58,49",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Tropical Smirnoff Ice 269ml",
+      "price": "R$ 5,95",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Original Pilsen 350ml Lata 24 Unidades",
+      "price": "R$ 83,76",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado Caju Maguary Garrafa 1l",
+      "price": "R$ 8,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Frutas Vermelhas Beats Red Mix Lata 269ml",
+      "price": "R$ 6,15",
+      "onSale": false
+    },
+    {
+      "title": "Licor Amarula Raspberry Chocolate Baobab Garrafa 700ml",
+      "price": "R$ 149,90",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Chandon Réserve Brut 750ml",
+      "price": "R$ 159,60",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Chalise Isabel, Concord e Seibel 750ml",
+      "price": "R$ 14,90",
+      "onSale": false
+    },
+    {
+      "title": "Café Solúvel Tradicional Carrefour SC 50g",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Achocolatado em Flocos Chocolate Maltado Ovomaltine 400g",
+      "price": "R$ 30,49",
+      "onSale": "50% OFF NA 2 UN\nBadge da promoção 50% OFF NA 2 UN"
+    },
+    {
+      "title": "Cerveja Amstel Pilsen Lager 269ml 48 Unidades",
+      "price": "R$ 153,12",
+      "onSale": false
+    },
+    {
+      "title": "Drink Pronto Beats Senses Long Neck 269ml",
+      "price": "R$ 7,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Adoçada Laranja Del Valle Frut Pet 1 L",
+      "price": "R$ 5,75",
+      "onSale": false
+    },
+    {
+      "title": "Energético Ultra Peachy Keen Pêssego Zero Açúcar Monster 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Lager Premium Puro Malte Stella Artois 330ml 24 Unidades",
+      "price": "R$ 143,76",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Energético Monster Energy Ultra Violet Sem Açúcar 473ml",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Chá Preto com Limão Leão 290 ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Leite em Pó Integral Piracanjuba 1kg",
+      "price": "R$ 42,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky The Glenlivet Founder's Reserve Single Malt Escocês - 750 ml",
+      "price": "R$ 324,90",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Integral Aqua Coco Garrafa 1 L",
+      "price": "R$ 17,49",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Maçã Verde Mathieu Teisseire Garrafa 700 ml",
+      "price": "R$ 58,49",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Tropical Smirnoff Ice 269ml",
+      "price": "R$ 5,95",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Original Pilsen 350ml Lata 24 Unidades",
+      "price": "R$ 83,76",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado Caju Maguary Garrafa 1l",
+      "price": "R$ 8,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Frutas Vermelhas Beats Red Mix Lata 269ml",
+      "price": "R$ 6,15",
+      "onSale": false
+    },
+    {
+      "title": "Licor Amarula Raspberry Chocolate Baobab Garrafa 700ml",
+      "price": "R$ 149,90",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Chandon Réserve Brut 750ml",
+      "price": "R$ 159,60",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Chalise Isabel, Concord e Seibel 750ml",
+      "price": "R$ 14,90",
+      "onSale": false
+    },
+    {
+      "title": "Café Solúvel Tradicional Carrefour SC 50g",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Achocolatado em Flocos Chocolate Maltado Ovomaltine 400g",
+      "price": "R$ 30,49",
+      "onSale": "50% OFF NA 2 UN\nBadge da promoção 50% OFF NA 2 UN"
+    },
+    {
+      "title": "Cerveja Amstel Pilsen Lager 269ml 48 Unidades",
+      "price": "R$ 153,12",
+      "onSale": false
+    },
+    {
+      "title": "Drink Pronto Beats Senses Long Neck 269ml",
+      "price": "R$ 7,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Adoçada Laranja Del Valle Frut Pet 1 L",
+      "price": "R$ 5,75",
+      "onSale": false
+    },
+    {
+      "title": "Energético Ultra Peachy Keen Pêssego Zero Açúcar Monster 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Lager Premium Puro Malte Stella Artois 330ml 24 Unidades",
+      "price": "R$ 143,76",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Salton Doce Branco Moscatel 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen 330ml 24 Unidades",
+      "price": "R$ 119,76",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Adoçada Uva Del Valle Frut Pet 1 L",
+      "price": "R$ 5,75",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Neston Maçã, Banana e Mamão 280ml",
+      "price": "R$ 7,05",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Tinto Seco Marques de Casa Concha Merlot Valle del Maule Garrafa 750 ml",
+      "price": "R$ 139,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Periquita 750ml",
+      "price": "R$ 64,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Espanhol Gran Vinã Garrafa 750ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Casillero del Diablo Carmenere Reserva 750 ml",
+      "price": "R$ 61,15",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto de Laranja e Maçã Carrefour Classic 1L",
+      "price": "R$ 12,09",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Fino Branco Seco Pinot Gricio Manto Blanco 750ml",
+      "price": "R$ 31,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Abacaxi com Hortelã Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Maça Tial 100% 1L",
+      "price": "R$ 11,49",
+      "onSale": false
+    },
+    {
+      "title": "Licor Whisky e Mel Passport Garrafa 670 ml",
+      "price": "R$ 61,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Minalba 5 Litros",
+      "price": "R$ 10,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal A Tal da Castanha Caju e Coco 1L",
+      "price": "R$ 23,99",
+      "onSale": "30% OFF NA 2 UN\nBadge da promoção 30% OFF NA 2 UN"
+    },
+    {
+      "title": "Vinho Branco Português Península das Vinhas Ligeiro & Medium Sweet Casa Ermelinda Freitas 750ml",
+      "price": "R$ 41,35",
+      "onSale": false
+    },
+    {
+      "title": "Café Torrado e Moído Pilão Sachê",
+      "price": "R$ 14,19",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Uva Intensa 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Suco Maçã Natural One Ambiente Garrafa 180 ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Café Solúvel Extra Forte Carrefour SC 50g",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Energy Ultra Paradise Sem Açúcar 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Gatorade Sabor Berry Blue 500ml",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Khaotic Juice Tropical Monster 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Nescau Pronto 1L",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Possible Original 1L",
+      "price": "R$ 14,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Punta Negra La Parcela Cabernet Sauvingon 750 ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Maracujá com Iogurte Frisco Pacote 18g",
+      "price": "R$ 1,19",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Maçã Del Valle 100% Suco 1 L",
+      "price": "R$ 13,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado Uva Maguary 500ml",
+      "price": "R$ 7,35",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Crystal 500ml - 12 Unidades",
+      "price": "R$ 28,68",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Pepsi 350ml Lata",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Maçã Natural One Special Blend 900ml",
+      "price": "R$ 18,29",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Life Mix Kids 200ml",
+      "price": "R$ 4,69",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Manga Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Abacaxi 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Vodka Absolut Vanilia - 750 ml",
+      "price": "R$ 116,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Maracujá e Maçã Life Mix Turma da Mônica Caixa 200 ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Nestlé Pureza Vital 6,3 Litros",
+      "price": "R$ 12,39",
+      "onSale": false
+    },
+    {
+      "title": "Refresco de Maracujá Del Valle Kapo 200ml",
+      "price": "R$ 2,59",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Green Apple Smirnoff Ice 269ml",
+      "price": "R$ 5,79",
+      "onSale": false
+    },
+    {
+      "title": "Energético Líquido à Base de Taurina e Cafeína Juice Suco de Frutas Monster Pipeline Punch 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Lager Premium Puro Malte Stella Artois Garrafa 330 ml 48 Unidades",
+      "price": "R$ 287,52",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Original Pale Lager 600ml - 12 Unidades",
+      "price": "R$ 119,88",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Santa Colheita 750 ml",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Montesur Reserva Especial Merlot Garrafa 750ml",
+      "price": "R$ 29,89",
+      "onSale": false
+    },
+    {
+      "title": "Ades Leite de Amêndoas 1L",
+      "price": "R$ 18,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Tinto Seco Reserva Casillero del Diablo Merlot Valle Central Garrafa 750 ml",
+      "price": "R$ 59,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Tinto Meio Seco Black Diablo Cabernet Sauvignon Valle del Maule Garrafa 750 ml",
+      "price": "R$ 76,45",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Peach Garrafa 600ml",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Frutas Cítricas Del Valle Kapo 200 ml",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Heineken Premium Pilsen Lager 250ml 24 Unidades",
+      "price": "R$ 126,96",
+      "onSale": false
+    },
+    {
+      "title": "Complemento Alimentar Nutren Senior Baunilha 740g",
+      "price": "R$ 194,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Primitivo Salento Natale Verga Safra 2019 Garrafa 750ml",
+      "price": "R$ 40,75",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Clight Sem Açúcar Abacaxi 8g",
+      "price": "R$ 2,05",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Natures Heart Arroz 1L",
+      "price": "R$ 17,99",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Concentrado Sabor Guaraná Carrefour 1 Litro",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Energy Drink, 250 ml (8 latas)",
+      "price": "R$ 79,12",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Lichia Zero Açúcar Yaí 1L",
+      "price": "R$ 7,55",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Maguary Fruit Shoot 150ML",
+      "price": "R$ 1,20",
+      "onSale": false
+    },
+    {
+      "title": "Pó para preparo de Bebida de Abacaxi Carrefour 1L",
+      "price": "R$ 0,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Novecento Malbec 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho TintoLa Moneda Malbec Reserva 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Argentino Branco Seco Porteño Norton Chardonnay Mendoza Garrafa 750ml",
+      "price": "R$ 45,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Trapiche Vineyards Cabernet Sauvignon 750ml",
+      "price": "R$ 54,90",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Sococo 330ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Laranja Tial 1 Litro",
+      "price": "R$ 6,89",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco de Mesa Seco Classic Carrefour 750 ml",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Suco Néctar Goiaba Tial 1 L",
+      "price": "R$ 6,89",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Café Espresso Plus 220ml - 6 Unidades",
+      "price": "R$ 16,74",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Chivas Regal Escocês 18 Anos 750 ml",
+      "price": "R$ 637,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto de Uva e Maçã Carrefour Classic 1L",
+      "price": "R$ 11,45",
+      "onSale": false
+    },
+    {
+      "title": "Sake Thikará Silver 745 ml",
+      "price": "R$ 33,89",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Cranberry Juxx 1 litro",
+      "price": "R$ 16,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja e Maçã Natural One Ambiente 180ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Clight Sem Açúcar Morango 8g",
+      "price": "R$ 2,05",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Spaten Lata Sleek 350 ml 60 Unidades",
+      "price": "R$ 245,40",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Johnnie Walker Black Label 12 Anos 1 Litro - 2 Unidades",
+      "price": "R$ 419,80",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná Antarctica 2L Garrafa Pet Pack C/6",
+      "price": "R$ 56,34",
+      "onSale": false
+    },
+    {
+      "title": "Mate com Limão Leão 290 ml",
+      "price": "R$ 4,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Bioleve Garrafa 1,5 Litros",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Frisante Salton 750ml",
+      "price": "R$ 22,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Gaseificado Integral Uva Aurora 275 ml",
+      "price": "R$ 7,39",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Cappuccino Classic Pronto com Café, Cacau e Canela 3 Corações Frasco 260 ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin Becosa London Dry Becosa 1 L",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Licor de Amarula Vegan Garrafa 750ml",
+      "price": "R$ 152,95",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Penísula das Vinhas Regiões de Setúbal Casa Ermelinda Freitas Garrafa 750ml",
+      "price": "R$ 39,69",
+      "onSale": false
+    },
+    {
+      "title": "Rum Malibu Sabor Coco 750 ml",
+      "price": "R$ 75,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Possible Caju e Cacau 1L",
+      "price": "R$ 15,25",
+      "onSale": false
+    },
+    {
+      "title": "Bebida de Fruta Sabor Maçã Del Valle Kapo 200 ml",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em Pó Sabor Uva Carrefour 20g",
+      "price": "R$ 0,75",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen 330ml - 6 Unidades",
+      "price": "R$ 29,94",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Sem Açúcar 1 Litro - 6 Unidades",
+      "price": "R$ 35,94",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Natures Heart Aveia 1L",
+      "price": "R$ 17,99",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Powerade Sabor Uva 500 ml",
+      "price": "R$ 4,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Sabor Coco com Batata Doce Zero Lactose Itambé Whey 250ml",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Fanta Maracujá 350ml",
+      "price": "R$ 3,59",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Old parr 12 anos 1litro + Whisky Black Label 12 anos 750ml + Whisky Buchanans 12 anos 1litro",
+      "price": "R$ 442,70",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Natele Verga Barolo Docg Natale Verga 750ml",
+      "price": "R$ 129,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto 120 Colección Independencia Carménère Santa Rita 750ml",
+      "price": "R$ 40,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Uva Maca Tp 200 ml",
+      "price": "R$ 2,05",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Vinho Branco Frisante Salton 750ml",
+      "price": "R$ 22,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Gaseificado Integral Uva Aurora 275 ml",
+      "price": "R$ 7,39",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Cappuccino Classic Pronto com Café, Cacau e Canela 3 Corações Frasco 260 ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin Becosa London Dry Becosa 1 L",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Licor de Amarula Vegan Garrafa 750ml",
+      "price": "R$ 152,95",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Penísula das Vinhas Regiões de Setúbal Casa Ermelinda Freitas Garrafa 750ml",
+      "price": "R$ 39,69",
+      "onSale": false
+    },
+    {
+      "title": "Rum Malibu Sabor Coco 750 ml",
+      "price": "R$ 75,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Possible Caju e Cacau 1L",
+      "price": "R$ 15,25",
+      "onSale": false
+    },
+    {
+      "title": "Bebida de Fruta Sabor Maçã Del Valle Kapo 200 ml",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em Pó Sabor Uva Carrefour 20g",
+      "price": "R$ 0,75",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen 330ml - 6 Unidades",
+      "price": "R$ 29,94",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola Sem Açúcar 1 Litro - 6 Unidades",
+      "price": "R$ 35,94",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Natures Heart Aveia 1L",
+      "price": "R$ 17,99",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Powerade Sabor Uva 500 ml",
+      "price": "R$ 4,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Sabor Coco com Batata Doce Zero Lactose Itambé Whey 250ml",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Fanta Maracujá 350ml",
+      "price": "R$ 3,59",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Old parr 12 anos 1litro + Whisky Black Label 12 anos 750ml + Whisky Buchanans 12 anos 1litro",
+      "price": "R$ 442,70",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Natele Verga Barolo Docg Natale Verga 750ml",
+      "price": "R$ 129,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto 120 Colección Independencia Carménère Santa Rita 750ml",
+      "price": "R$ 40,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Uva Maca Tp 200 ml",
+      "price": "R$ 2,05",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Argentino Rosé Seco Reserve Trivento Malbec Mendoza Garrafa 750 ml",
+      "price": "R$ 66,25",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Seco Pardal Telhado 2019 750 ml",
+      "price": "R$ 36,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno 120 Coleção Indepedência Cabernet Sauvignon Santa Rita Garrafa 750ml",
+      "price": "R$ 40,90",
+      "onSale": false
+    },
+    {
+      "title": "Café Solúvel em Pó Espresso L'or Sachê 40 g",
+      "price": "R$ 12,25",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sprite Original 350ML",
+      "price": "R$ 3,69",
+      "onSale": false
+    },
+    {
+      "title": "Suco Integral Uva Tinto sem Açúcar Garibaldi 500ml",
+      "price": "R$ 11,75",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Cereja e Fruta Silvestres 250ml",
+      "price": "R$ 9,89",
+      "onSale": false
+    },
+    {
+      "title": "Energético Water Monster Ultra 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Laranja Del Valle 200ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Corte Magna Montepulciano 750 ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Licor Amarula 750 ml",
+      "price": "R$ 149,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Uva Maguary 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Doña Paula Los Cardos 2015 Malbec 750ml",
+      "price": "R$ 44,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Caju Tial Caixa 200 ml",
+      "price": "R$ 1,59",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Absolut Citron 750 ml",
+      "price": "R$ 116,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Montepulciano D'Abruzzo Natale Vergaho Garrafa 750ml",
+      "price": "R$ 35,90",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Morango com Iogurte Frisco Pacote 18g",
+      "price": "R$ 1,19",
+      "onSale": false
+    },
+    {
+      "title": "Guaraviton Açaí 500ml",
+      "price": "R$ 2,89",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Caju Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen 330ml 12 unidades",
+      "price": "R$ 59,88",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Weisse Lata 350 ml",
+      "price": "R$ 6,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Manto Blanco Reserva Pinot Noir 750ml",
+      "price": "R$ 49,89",
+      "onSale": false
+    },
+    {
+      "title": "Achocolatado em Pó Italac 1,01 Kg",
+      "price": "R$ 15,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Chalise Herbemont, Niágara e Seyve Villard 750ml",
+      "price": "R$ 15,25",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Maracujá Carrefour Classic 500ml",
+      "price": "R$ 4,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Citrus Del Valle Frut 1,5 Litro",
+      "price": "R$ 10,39",
+      "onSale": false
+    },
+    {
+      "title": "Kit Especiarias para Gin Tônica Br Spices 4 Unidades 10 g Cada",
+      "price": "R$ 70,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Uva Maca Tp 1l",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Salton Brut Branco Chardonnay e Trebbiano 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Guaraná 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Vinho Rose Argentino Exclusivo Carrefour Syrah 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Aurora 2016 Malvasia Meia Garrafa 500ml",
+      "price": "R$ 24,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho tinto Chileno 18 Valle del Maule Carménère Gran Reserva 750 ml",
+      "price": "R$ 89,99",
+      "onSale": false
+    },
+    {
+      "title": "Alimento à Base de Soja em Pó Original Zero Lactose Supra Soy Lata 300g",
+      "price": "R$ 30,59",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Terroir Du Monde Moscatel Branco 750ml",
+      "price": "R$ 32,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Mioranza 1 Litro",
+      "price": "R$ 25,90",
+      "onSale": false
+    },
+    {
+      "title": "Coca-Cola 1,5 Litros 6 Unidades",
+      "price": "R$ 56,34",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Munich Helles Puro Malte Spaten Garrafa 330ml",
+      "price": "R$ 5,39",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Chocolate Zero Lactose Piracanjuba Whey 250ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Guaraná da Amazônia FYs Lata 350ml",
+      "price": "R$ 2,75",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Terroirs Du Monde Merlot 2017 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Chileno Manto Blanco - 750 ml",
+      "price": "R$ 20,98",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Argentino Tinto Seco Porteño Norton Malbec Mendoza Garrafa 750ml",
+      "price": "R$ 43,49",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Uva com Cranberry Life Mix Caixa 1 L",
+      "price": "R$ 11,25",
+      "onSale": false
+    },
+    {
+      "title": "Gin & Tonic Tanqueray London Dry 275ml",
+      "price": "R$ 19,90",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Garibaldi Demi Sec Branco 750ml",
+      "price": "R$ 40,75",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Argentino Exclusivo Carrefour Suelo Chenin Chardonnay 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Português Verde da Barca 750 ml",
+      "price": "R$ 59,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Corte Magna Sangiovese 750 ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Ketel One Premium 1 Litro",
+      "price": "R$ 129,90",
+      "onSale": false
+    },
+    {
+      "title": "Tequila Jose Cuervo Ouro Especial 750 ml",
+      "price": "R$ 144,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno La Moneda Pinot Noir Reserva Garrafa 750ml",
+      "price": "R$ 37,29",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Old Parr 12 anos 750ml com 2 unidades",
+      "price": "R$ 287,80",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Escocês Buchanan's 12 anos 1L com 2 unidades",
+      "price": "R$ 429,80",
+      "onSale": false
+    },
+    {
+      "title": "Gin Tanqueray 750 ml + 6 Tônicas Schweppes sem Açúcar Lata 350 ml",
+      "price": "R$ 223,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen Lager 269ml 8 Unidades",
+      "price": "R$ 25,52",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Pilsen Lager 350ml 12 Unidades",
+      "price": "R$ 41,88",
+      "onSale": false
+    },
+    {
+      "title": "Vodka 5x Destilada Intencion 900 ml",
+      "price": "R$ 18,59",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Carrefour Classic 330ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Terroirs Du Monde Bordeaux 2016 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Português Branco Frisante Meio Seco Faisão Garrafa 750 ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Complemento Alimentar Nutren Senior Baunilha 370g",
+      "price": "R$ 96,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Terroirs Du Monde Riesling 750ml",
+      "price": "R$ 26,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Colorado Ribeirão Lager 600ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Irlandês Tridestilado Jameson Caskmates IPA Edition 750 ml",
+      "price": "R$ 129,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Diablo Valle del Maule 750 ml",
+      "price": "R$ 74,90",
+      "onSale": false
+    },
+    {
+      "title": "Energético Pomelo Zero Açúcar Red Bull The Pomelo Edition 250ml",
+      "price": "R$ 8,89",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Meio Seco Puente de Piedra Garrafa 750ml",
+      "price": "R$ 27,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Tinto Meio Seco Reservado Cabernet Sauvignon Carménère Santa Carolina 750ml",
+      "price": "R$ 34,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Cappuccino 15g Proteínas do Leite sem Açúcar Zero Lactose Parmalat Wheyfit 250ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Mioranza 750ml",
+      "price": "R$ 16,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Itaipava Lager 350ml 12 Unidades",
+      "price": "R$ 33,48",
+      "onSale": false
+    },
+    {
+      "title": "Cha Misto Leao Leaozinho Morango Maracuja 23 g 10 Saches",
+      "price": "R$ 13,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Vodka Citrus Schweppes Mixed Lata 269ml",
+      "price": "R$ 6,69",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Belgian White Blue Moon Long Neck 355ml",
+      "price": "R$ 10,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Montesur Reserva Especial Carmenère 750ml",
+      "price": "R$ 33,55",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal A Tal da Castanha Caju e Pará 1L",
+      "price": "R$ 23,99",
+      "onSale": "30% OFF NA 2 UN\nBadge da promoção 30% OFF NA 2 UN"
+    },
+    {
+      "title": "Água Mineral sem Gás Confiare 1,5L",
+      "price": "R$ 2,29",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Real Grei Reserva 2019 750 ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Penumbra Reserva Cabernet Sauvignon Garrafa 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Sabor Baunilha Zero Lactose Itambé Whey 250ml",
+      "price": "R$ 5,65",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Sem Lactose Whey Protein Italac Banana 250 ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Meio Seco Espanhol Viña Losar Viura 750 ml",
+      "price": "R$ 30,55",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Meio Seco Chileno 8km Chardonnay Reserva 750 ml",
+      "price": "R$ 40,75",
+      "onSale": false
+    },
+    {
+      "title": "Suco Manga e Maçã Tial 100% Caixa 1 L",
+      "price": "R$ 11,49",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Uva Maratá Caixa 1 L",
+      "price": "R$ 6,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Pardal Telhado 2019 750 ml",
+      "price": "R$ 36,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Black & White 700ml",
+      "price": "R$ 66,90",
+      "onSale": false
+    },
+    {
+      "title": "Conhaque Domeq Nacional 1 L",
+      "price": "R$ 53,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Caju Carrefour Classic 200ml",
+      "price": "R$ 2,15",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Caju Natural One Ambiente Garrafa 900 ml",
+      "price": "R$ 17,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Frisante Suave Relax 750 ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Pêssego Del Valle Caixa 200 ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco Néctar Del Valle Uva 290 ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Natural One Special Blend 900ml",
+      "price": "R$ 18,90",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Spaten Lata Sleek 350 ml 24 Unidades",
+      "price": "R$ 98,16",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Tennessee Fire 1L 2 Unidades",
+      "price": "R$ 329,80",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Branco Integral Aurora 1,5L",
+      "price": "R$ 22,89",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Sabor Laranja Powerade Frasco 500ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Honey Limonada Jack Daniel's Lata 330ml",
+      "price": "R$ 13,45",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Bebida Láctea UHT Sabor Baunilha Zero Lactose Itambé Whey 250ml",
+      "price": "R$ 5,65",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Sem Lactose Whey Protein Italac Banana 250 ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Meio Seco Espanhol Viña Losar Viura 750 ml",
+      "price": "R$ 30,55",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Meio Seco Chileno 8km Chardonnay Reserva 750 ml",
+      "price": "R$ 40,75",
+      "onSale": false
+    },
+    {
+      "title": "Suco Manga e Maçã Tial 100% Caixa 1 L",
+      "price": "R$ 11,49",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Uva Maratá Caixa 1 L",
+      "price": "R$ 6,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Pardal Telhado 2019 750 ml",
+      "price": "R$ 36,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Black & White 700ml",
+      "price": "R$ 66,90",
+      "onSale": false
+    },
+    {
+      "title": "Conhaque Domeq Nacional 1 L",
+      "price": "R$ 53,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Caju Carrefour Classic 200ml",
+      "price": "R$ 2,15",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Caju Natural One Ambiente Garrafa 900 ml",
+      "price": "R$ 17,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Frisante Suave Relax 750 ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Pêssego Del Valle Caixa 200 ml",
+      "price": "R$ 3,39",
+      "onSale": false
+    },
+    {
+      "title": "Suco Néctar Del Valle Uva 290 ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Natural One Special Blend 900ml",
+      "price": "R$ 18,90",
+      "onSale": false
+    },
+    {
+      "title": "Kit Cerveja Spaten Lata Sleek 350 ml 24 Unidades",
+      "price": "R$ 98,16",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Tennessee Fire 1L 2 Unidades",
+      "price": "R$ 329,80",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Branco Integral Aurora 1,5L",
+      "price": "R$ 22,89",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Sabor Laranja Powerade Frasco 500ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Gaseificada Honey Limonada Jack Daniel's Lata 330ml",
+      "price": "R$ 13,45",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Maracujá Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Maracujá Carrefour Classic 200ml",
+      "price": "R$ 2,15",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Uva Maratá Caixa 200 ml",
+      "price": "R$ 1,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Quatro ventos Douro 2021",
+      "price": "R$ 44,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Rosé Seco Terroirs Du Monde 750 ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Panul Merlot Viñedos Marchigue 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Golden Ale Garrafa 600ml",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Goose Island Midway 355ml Long Neck",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Naturelle Moscatel Casa Valduga 750ml",
+      "price": "R$ 84,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Assemblage Saint Germain Moscato Trebbiano 750ml",
+      "price": "R$ 23,90",
+      "onSale": false
+    },
+    {
+      "title": "Vermute Martini Rosso 750ml",
+      "price": "R$ 47,59",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Punta Negra Gran Terruño Cabernet Sauvignon 750 ml",
+      "price": "R$ 69,99",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Gatorade Tangerina Garrafa 500ML",
+      "price": "R$ 5,29",
+      "onSale": false
+    },
+    {
+      "title": "Gin Doce Strawberry Intencion Garrafa 900 ml",
+      "price": "R$ 26,89",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em Pó Sabor Laranja Carrefour 20g",
+      "price": "R$ 0,75",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Espanhol Gran Viña Airén Garrafa 750ml",
+      "price": "R$ 29,49",
+      "onSale": false
+    },
+    {
+      "title": "Fórmula Infantil Aptanutri Profutura Lata 800 g",
+      "price": "R$ 93,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Budweiser Pilsen Lager 269ml 16 Unidades",
+      "price": "R$ 51,04",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Prosecco Salton Seco Branco 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Chocolate com Café Mocha Starbucks Frappuccino 280ml",
+      "price": "R$ 9,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Manga Maguary 500ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Johnnie Walker Red Label 750ml com 2 unidades",
+      "price": "R$ 165,80",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Lindoya Verão Garrafa 510ml",
+      "price": "R$ 5,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Concha y Toro Reservado Malbec 750ml",
+      "price": "R$ 33,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Laranja com Acerola Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Terroirs Du Monde Rhône 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Preparado de Frutas Vermelhas Easy Drinks 100g",
+      "price": "R$ 8,79",
+      "onSale": false
+    },
+    {
+      "title": "Café em Cápsula Torrado e Moído Mogiana Café do Centro Caixa 50 g 10 Unidades",
+      "price": "R$ 18,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Goiaba e Maçã Tial Caixa 330 ml",
+      "price": "R$ 4,29",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Polonesa Wyborowa Premium 750 ml",
+      "price": "R$ 79,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Real Grei 2019 750 ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Colorado Cauim 600ml Garrafa",
+      "price": "R$ 14,65",
+      "onSale": false
+    },
+    {
+      "title": "Cachaça Ypióca Empalhada Ouro 965ml",
+      "price": "R$ 59,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Adobe Reserva Emiliana Pinot Noir 750 ml",
+      "price": "R$ 69,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Abacaxi e Maçã 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal A Tal da Castanha Mixed Nuts 1L",
+      "price": "R$ 23,99",
+      "onSale": "30% OFF NA 2 UN\nBadge da promoção 30% OFF NA 2 UN"
+    },
+    {
+      "title": "Vinho Branco Terrazas de Los Andes 2011 Chardonnay 750ml",
+      "price": "R$ 92,00",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Tradicional 355ml - 24 Unidades",
+      "price": "R$ 321,36",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Batida com Açúcar e Mel Carrefour Classic 800ml",
+      "price": "R$ 9,09",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Integral OQ 500 ml",
+      "price": "R$ 10,85",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Fanta Laranja 220ML",
+      "price": "R$ 2,89",
+      "onSale": false
+    },
+    {
+      "title": "Rum Brasileiro Carta Branca Mojito Bacardi Garrafa 980 ml",
+      "price": "R$ 52,90",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Goiaba e Maçã Carrefour Classi 200ml",
+      "price": "R$ 2,09",
+      "onSale": false
+    },
+    {
+      "title": "Drink Pronto Beats Caipirinha 269ml Long Neck",
+      "price": "R$ 7,79",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Tang Goiaba 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Refresco de Maracujá, Carrefour, 20g",
+      "price": "R$ 0,75",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em Pó Sabor Limão Carrefour 20g",
+      "price": "R$ 0,75",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Espanhol Castillo de Albai Crianza Rioja 750 ml",
+      "price": "R$ 89,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Chileno Branco Seco Phenomenal Casillero del Diablo Devil's Carnaval Sauvignon Garrafa 750ml",
+      "price": "R$ 59,90",
+      "onSale": false
+    },
+    {
+      "title": "Licor Baileys Original 750ml",
+      "price": "R$ 158,00",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Português Real Grei Old Vines 750 ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Integral Garibaldi 300ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Chá Preto English Tea No. 1 Ahmad Tea London Caixa com 10 Sachês",
+      "price": "R$ 18,05",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Cranberry Juxx 1 Litro",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Energético Fusion 2L",
+      "price": "R$ 10,49",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Singleton Of Dufftown 12 Anos 750ml",
+      "price": "R$ 249,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Vinha da Casinha Garrafa 750ml",
+      "price": "R$ 30,55",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Penumbra Reserva 2021 Malbec Garrafa 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Gin London Dry Bombay Sapphire Garrafa 750 ml",
+      "price": "R$ 137,90",
+      "onSale": false
+    },
+    {
+      "title": "Suplemento Uva Plant Power Jungle Low Carb Frasco 500ml",
+      "price": "R$ 9,59",
+      "onSale": "LEVE 5 PAGUE 4\nBadge da promoção LEVE 5 PAGUE 4"
+    },
+    {
+      "title": "Bebida à Base de Plantas Sabor Café com Caramelo Not Milk High Protein 250ml",
+      "price": "R$ 7,89",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Maracujá Maratá 1 Litro",
+      "price": "R$ 6,19",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Adobe Reserva Emiliana Riesling 750 ml",
+      "price": "R$ 69,90",
+      "onSale": false
+    },
+    {
+      "title": "Cachaça Ypióca Conta Gota Ouro 965ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Gin London Dry Intencion Garrafa 900 ml",
+      "price": "R$ 21,90",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Energy Dragon Ice Tea Lemon 473ml",
+      "price": "R$ 9,29",
+      "onSale": false
+    },
+    {
+      "title": "Vermute Cinzano Rosso 1000ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista Alcoólica Beats Tropical 269ml",
+      "price": "R$ 7,79",
+      "onSale": false
+    },
+    {
+      "title": "Kit Especial 16",
+      "price": "R$ 58,29",
+      "onSale": false
+    },
+    {
+      "title": "Suco Integral Uva Tinto Aurora 1,5 Litros",
+      "price": "R$ 25,15",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Sabor Manga Carrefour Classic 200ml",
+      "price": "R$ 2,09",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Destilada Orloff Garrafa 1,75 L",
+      "price": "R$ 63,90",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Fanta Guaraná 350ML",
+      "price": "R$ 3,29",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Natural One Special Blend 300ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Seco Le Rosé de Julie Grenache 750 ml",
+      "price": "R$ 67,85",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Uva Concentrado Da Fruta 500 ml",
+      "price": "R$ 7,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Colorado Vixnu 600ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Achocolatado Flocos Crocantes Ovomaltine Chocomaltine 750g",
+      "price": "R$ 51,49",
+      "onSale": "50% OFF NA 2 UN\nBadge da promoção 50% OFF NA 2 UN"
+    },
+    {
+      "title": "Refresco em pó Tang Laranja Mamão 18g",
+      "price": "R$ 1,29",
+      "onSale": "LEVE 6 PAGUE 5\nBadge da promoção LEVE 6 PAGUE 5"
+    },
+    {
+      "title": "Sake Thikará Gold 745 ml",
+      "price": "R$ 33,89",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Suco Misto de Laranja e Maçã Carrefour Classic 1,5L",
+      "price": "R$ 19,29",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Espanhol Altos de Tamaron Roble 750 ml",
+      "price": "R$ 88,49",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Uva e Cranberry Funcional Life Mix 200ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Casa Dei Fanti Winemaker's Collection Montepulciano D'Abruzzo 750 ml",
+      "price": "R$ 87,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Therezópolis Ebenholz Dunkel Garrafa 500ml",
+      "price": "R$ 11,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Sauvignon Blanc Santa Carolina 750 ml",
+      "price": "R$ 39,89",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Argentino Tinto Seco Porteño Norton Cabernet Sauvignon Mendoza Garrafa 750ml",
+      "price": "R$ 44,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Tangerina Integral Villa Piva 1L",
+      "price": "R$ 21,69",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Energy 473ml - 6 Unidades",
+      "price": "R$ 55,74",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Sabor Frutas Vermelhas Carrefour Classic 150ml",
+      "price": "R$ 2,19",
+      "onSale": false
+    },
+    {
+      "title": "Energético Baly Frutas Tropicais com 473 ml",
+      "price": "R$ 6,15",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Sangue de Boi Serra Gaúcha 4 L",
+      "price": "R$ 74,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Integral Uva OQ Garrafa 300 ml",
+      "price": "R$ 8,35",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Chileno Casa Crebar Sauvignon Blanc Reserva 750 ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto 8KM Cabernet Sauvignon 750 ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto 8KM Camérnère 750 ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Vegetal Choconuts Zero A Tal da Castanha 1L",
+      "price": "R$ 23,99",
+      "onSale": "30% OFF NA 2 UN\nBadge da promoção 30% OFF NA 2 UN"
+    },
+    {
+      "title": "Água de Coco Sabor Maracujá Sococo Mais 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Laranja Maguary Garrafa 500 ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Dewars 12 Anos 750 Ml",
+      "price": "R$ 144,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosê Chileno 120 Santa Rita Garrafa 750ml",
+      "price": "R$ 41,75",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Praya Receita Clássica 600ml",
+      "price": "R$ 14,89",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT com Coco Zero Lactose Piracanjuba Whey 1L",
+      "price": "R$ 25,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Espanhol Viña Losar Tempranillo 750ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Syrah e Malbec Puente Sur 750ml",
+      "price": "R$ 39,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Adobe Carmenere Orgânico Reserva 375ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Português Bacalhoa JP Azeitão Garrafa 750ml",
+      "price": "R$ 45,85",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Laranja Natural One 300ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Cachaça Caninha Da Roça 965ml",
+      "price": "R$ 17,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Laranja Lata 350ML",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea sem Lactose Italakinho Chocolate 200ml",
+      "price": "R$ 1,59",
+      "onSale": false
+    },
+    {
+      "title": "Chá Hibisco Rosa Silvestre & Amora Leão Caixa 16 g Com 10 Unidades",
+      "price": "R$ 12,79",
+      "onSale": false
+    },
+    {
+      "title": "Suco Néctar Del Valle Pêssego 290 ml",
+      "price": "R$ 4,39",
+      "onSale": false
+    },
+    {
+      "title": "Isotônico Sabor Limão Powerade 500ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante h2oh limão 500ml Garrafa Pack C/12",
+      "price": "R$ 43,08",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar de Goiaba Del Valle 290 ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rose Seco Espanhol Finca Los Trenzones Tempranillo 750 ml",
+      "price": "R$ 54,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Chalise Herbemont, Niágara e Seyve Villard 750ml",
+      "price": "R$ 14,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Morango Nesquik 180ml",
+      "price": "R$ 3,05",
+      "onSale": false
+    },
+    {
+      "title": "Refresco de Abacaxi Del Valle Kapo 200ml",
+      "price": "R$ 2,65",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Uva Garrafa 200ML",
+      "price": "R$ 1,25",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Argentino Punta Negra La Parcela Chardonnay 750 ml",
+      "price": "R$ 29,49",
+      "onSale": false
+    },
+    {
+      "title": "Bebida à Base de Aveia Nude Baunilha & Café 250ml",
+      "price": "R$ 7,59",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Manga Luminus Life 200ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Witbier Garrafa 600 ml",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Framboesa Mathieu Teisseire Garrafa 700 ml",
+      "price": "R$ 58,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Penumbra Malbec Garrafa 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Colorado Demoiselle 600ml Garrafa",
+      "price": "R$ 14,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Gato Negro Malbec 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Pink Lemonade Orgânico Poder Da Terra 200ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Laranja Maratá Caixa 200 ml",
+      "price": "R$ 2,19",
+      "onSale": false
+    },
+    {
+      "title": "Chá Leão Adoçado Guaraná e Açaí 450 ml",
+      "price": "R$ 3,29",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Rosé Salton Moscato Com 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Chilleno Adobe Reserva Emiliana 750 ml",
+      "price": "R$ 69,90",
+      "onSale": false
+    },
+    {
+      "title": "Smirnoff 998ml + 3 Frutas Vermelhas Easy Drinks",
+      "price": "R$ 69,87",
+      "onSale": false
+    },
+    {
+      "title": "Kit Bebida Láctea UHT Chocolate Pirakids 200 ml 12 Unidades",
+      "price": "R$ 11,88",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Mista com Cachaça 51 Limão 275 ml",
+      "price": "R$ 5,99",
+      "onSale": false
+    },
+    {
+      "title": "Refresco em pó Fresh Guaraná 15g",
+      "price": "R$ 1,65",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Baden Baden Pilsen Cristal Garrafa 600ml",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky escocês Singleton Single Malte 12 anos 750ml + Whisky Escocês Johnnie Walker Black Label 12 anos 750ml",
+      "price": "R$ 304,80",
+      "onSale": false
+    },
+    {
+      "title": "Espumante Italiano Processo Extra Tosti 750 ml",
+      "price": "R$ 99,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Néctar Misto de Manga e Maça Yummy Fresh 1L",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Argentino Tinto Demi-Sec La Vanguardia Tempranillo Malbec Bonarda Mendoza Garrafa 750ml",
+      "price": "R$ 43,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco de Maçã Carrefour Classic 1L",
+      "price": "R$ 14,09",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Carrefour Classic 750 ml",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea Cappuccino 3 Corações Power Whey 15g 260ml",
+      "price": "R$ 8,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Alabastro Aletenjano 750ml",
+      "price": "R$ 49,90",
+      "onSale": false
+    },
+    {
+      "title": "Rum Brasileiro Carta Branca Bacardi Garrafa 980 ml",
+      "price": "R$ 53,05",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Absolut Elyx 750 ml",
+      "price": "R$ 257,90",
+      "onSale": false
+    },
+    {
+      "title": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Baunilha com Limão Frisco Pacote 18g",
+      "price": "R$ 1,19",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Smirnoff Red 1,75 Litros - 4 Unidades",
+      "price": "R$ 227,60",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto 8Km Carménère 750ml",
+      "price": "R$ 31,55",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Casa Dei Fanti Winemaker's Collection Primitivo Puglia 750 ml",
+      "price": "R$ 109,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Seco Salton Cotidiano Cabernet Sauvignon 750ml",
+      "price": "R$ 24,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Extra Pilsen Corona Lata 269ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Almena Del Sur Tannat 750ml",
+      "price": "R$ 30,55",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Cidade Imperial Puro Malte Helles 330ml",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Fanta Uva Lata 220 ml",
+      "price": "R$ 2,89",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Laranja Maca Tp 1 l",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Vermute Rosato Martini Garrafa 750 ml",
+      "price": "R$ 47,59",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Do Porto Pitters Tawny 750 ml",
+      "price": "R$ 59,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Chianti Clássico Riserva Natale Verga 750ml",
+      "price": "R$ 179,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Verde Português Loureiro Dabarca - 750 ml",
+      "price": "R$ 80,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Syrah e Malbec Penumbra 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Chileno Santa Rita 8 KM - 750 ml",
+      "price": "R$ 31,55",
+      "onSale": false
+    },
+    {
+      "title": "15 Cervejas Skol Pilsen Lager 269ml + 1 Linguiça Toscana com Pimenta Biquinho Perdigão Na Brasa 600g",
+      "price": "R$ 68,35",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Laranja Maguary 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Gin London Dry Orgânico Vitória Régia Garrafa 750 ml",
+      "price": "R$ 74,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Merlot Terroirs Du Monde 750ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Pilsen Eisenbahn 269 ml",
+      "price": "R$ 3,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Casa Dei Fanti Winemaker's Collection Chianti Toscana 750 ml",
+      "price": "R$ 85,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Meio Seco Cella 750ml",
+      "price": "R$ 59,90",
+      "onSale": false
+    },
+    {
+      "title": "Tequila José Cuervo Prata Especial 750 ml",
+      "price": "R$ 144,90",
+      "onSale": false
+    },
+    {
+      "title": "Jack Daniel's Gentleman Jack Tennessee Whiskey 1 L",
+      "price": "R$ 239,90",
+      "onSale": false
+    },
+    {
+      "title": "Espumate Prosecco Garibaldi Ice Moscato Branco 750 ml",
+      "price": "R$ 54,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Puente Sur Malbec Garrafa 750ml",
+      "price": "R$ 39,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto de Uva e Maçã Carrefour Classic 1,5L",
+      "price": "R$ 16,69",
+      "onSale": false
+    },
+    {
+      "title": "Café Espresso em Cápsula Torrado e Moído Clássico Illy 57 g Com 10 Unidades",
+      "price": "R$ 25,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Laranja Maca Tp 200 ml",
+      "price": "R$ 1,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Abacaxi Maguary 500ml",
+      "price": "R$ 7,35",
+      "onSale": false
+    },
+    {
+      "title": "Água de Coco Com Polpa Viver Tp 330 Ml",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás Smartwater 591 ml",
+      "price": "R$ 5,39",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Amber Lager 740ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Caju Da Fruta 1 Litro",
+      "price": "R$ 7,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Reservado Santa Carolina Carménère Valle Central 750 ml",
+      "price": "R$ 39,89",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Bioleve 510ml",
+      "price": "R$ 1,99",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Jabuticaba Zero Açúcar Yaí 1L",
+      "price": "R$ 7,55",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Escocês Chivas Regal 12 anos 1litro com 2 unidades",
+      "price": "R$ 349,80",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Conde de Cortes Doc Douro 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Montesur Reserva Especial Cabernet Sauvignon Garrafa 750ml",
+      "price": "R$ 29,79",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Concentrado Sabor Cranberry Kaly 700 ml",
+      "price": "R$ 46,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Laranja Life Mix Caixa 1 L",
+      "price": "R$ 10,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Semi-Seco Concha y Toro Frontera Chardonnay Garrafa 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Santa Helena Reservado Carmenère 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Refresco de Água de Coco Adoçado Sabor Uva Sococo Mais 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Panul Merlot Garrafa 750ml",
+      "price": "R$ 32,99",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Askov Tridestilada 900 ml",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Licor de Amarula África do Sul Ethiopian Coffee 750 ml",
+      "price": "R$ 149,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Góes Tempos Cabernet Sauvignon 750ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Goiaba e Maçã Tial 100% Caixa 1 L",
+      "price": "R$ 11,49",
+      "onSale": false
+    }
+  ],
+  [
+    {
+      "title": "Água de Coco Com Polpa Viver Tp 330 Ml",
+      "price": "R$ 5,49",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral com Gás Smartwater 591 ml",
+      "price": "R$ 5,39",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Patagonia Amber Lager 740ml Garrafa",
+      "price": "R$ 14,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco Concentrado de Caju Da Fruta 1 Litro",
+      "price": "R$ 7,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Reservado Santa Carolina Carménère Valle Central 750 ml",
+      "price": "R$ 39,89",
+      "onSale": false
+    },
+    {
+      "title": "Água Mineral sem Gás Bioleve 510ml",
+      "price": "R$ 1,99",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Jabuticaba Zero Açúcar Yaí 1L",
+      "price": "R$ 7,55",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Escocês Chivas Regal 12 anos 1litro com 2 unidades",
+      "price": "R$ 349,80",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Conde de Cortes Doc Douro 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Montesur Reserva Especial Cabernet Sauvignon Garrafa 750ml",
+      "price": "R$ 29,79",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Concentrado Sabor Cranberry Kaly 700 ml",
+      "price": "R$ 46,99",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Laranja Life Mix Caixa 1 L",
+      "price": "R$ 10,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno Semi-Seco Concha y Toro Frontera Chardonnay Garrafa 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Santa Helena Reservado Carmenère 750ml",
+      "price": "R$ 34,90",
+      "onSale": false
+    },
+    {
+      "title": "Refresco de Água de Coco Adoçado Sabor Uva Sococo Mais 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno Panul Merlot Garrafa 750ml",
+      "price": "R$ 32,99",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Askov Tridestilada 900 ml",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Licor de Amarula África do Sul Ethiopian Coffee 750 ml",
+      "price": "R$ 149,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Suave Góes Tempos Cabernet Sauvignon 750ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Suco Goiaba e Maçã Tial 100% Caixa 1 L",
+      "price": "R$ 11,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco Goiaba e Maçã Tial 100% Caixa 1 L",
+      "price": "R$ 11,49",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Goiaba Maca Tp 200 ml",
+      "price": "R$ 2,05",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Grão Vasco Touriga Nacional e Tempranillo 750ml",
+      "price": "R$ 54,90",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Escocês Ballantines Bourbon Barrel 750ml com 2 unidades",
+      "price": "R$ 189,98",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Almena Del Sur Cabernet Sauvigmon 750ml",
+      "price": "R$ 29,90",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Chocolate Zero Lactose Pirakids Caixa 200 ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Pilsen Puro Malte Unfiltered Lata 350ml",
+      "price": "R$ 4,79",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Integral de Mesa Seco Classic Carrefour 750 ml",
+      "price": "R$ 15,69",
+      "onSale": false
+    },
+    {
+      "title": "Energético Monster Energy Juice Pacific Punch 473ml",
+      "price": "R$ 9,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto 8Km Cabernet Sauvignon 750ml",
+      "price": "R$ 31,55",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Chileno 120 Valle Central Sauvignon Blanc Santa Rita 750ml",
+      "price": "R$ 32,98",
+      "onSale": false
+    },
+    {
+      "title": "Gin Dry Theros 1 L",
+      "price": "R$ 34,29",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Corte Magna Puglia 750 ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Champagne Veuve Clicquot Brut Branco Pinot Noir, Pinot Meunier e Chardonnay 750ml",
+      "price": "R$ 599,90",
+      "onSale": false
+    },
+    {
+      "title": "Energético Red Bull Energy Drink, Melancia Edition, 250 ml (24 latas)",
+      "price": "R$ 237,36",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Maracuja Tp 1 l",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Eisenbahn Weizenbier Long Neck 355ml",
+      "price": "R$ 6,79",
+      "onSale": false
+    },
+    {
+      "title": "Energético Sem Açúcar Red Bull Energy Drink Sugarfree, 250 ml (24 latas)",
+      "price": "R$ 237,36",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Maracujá Del Valle Lata 290 ml",
+      "price": "R$ 4,09",
+      "onSale": false
+    },
+    {
+      "title": "Cappuccino Tradicional Carrefour PT 200g",
+      "price": "R$ 10,49",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Black & White 1L 2 Unidades",
+      "price": "R$ 179,80",
+      "onSale": false
+    },
+    {
+      "title": "Bebida Láctea UHT Zero Lactose Parmalat Wheyfit Sabor Chocolate 250ml",
+      "price": "R$ 6,99",
+      "onSale": false
+    },
+    {
+      "title": "Fanta Guaraná Pet 2L + Linguiça Toscana com Alho e Ervas Perdigão Na Brasa 600g",
+      "price": "R$ 35,78",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Reguengos Trincadeira Aragonez Castelão Alentejo 750 ml",
+      "price": "R$ 71,99",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Concentrado Sabor Laranja Kaly 700 ml",
+      "price": "R$ 46,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Argentino Exclusivo Carrefour Suelo Tempranillo Malbec 750ml",
+      "price": "R$ 49,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Almadén Cabernet Sauvignon 750ml",
+      "price": "R$ 47,29",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Maple Syrup Original Hungry Jack Com 428g",
+      "price": "R$ 49,89",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Maracuja Tp 1 l",
+      "price": "R$ 4,99",
+      "onSale": false
+    },
+    {
+      "title": "Alimento à Base de Soro de Leite Permeado de Leite e Açúcar Colônia Holandesa Chocolade 200ml",
+      "price": "R$ 0,99",
+      "onSale": false
+    },
+    {
+      "title": "Refresco de Água de Coco Adoçado Sabor Frutas Vermelhas Sococo Mais 200ml",
+      "price": "R$ 2,79",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Americano 5 Anos Apple 1L 2 Unidades",
+      "price": "R$ 329,80",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco 18 Sauvignon 750 ml",
+      "price": "R$ 54,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Robert Mondavi Woodbridge Cabernet Sauvignon 750ml",
+      "price": "R$ 119,90",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Pure Ahmad Tea London Caixa com 10 Sachês",
+      "price": "R$ 16,99",
+      "onSale": false
+    },
+    {
+      "title": "Néctar de Maracujá Maratá Caixa 200 ml",
+      "price": "R$ 2,19",
+      "onSale": false
+    },
+    {
+      "title": "Kit Whisky Johnnie Walker Gold Reserve 750ml com 2 unidades",
+      "price": "R$ 639,80",
+      "onSale": false
+    },
+    {
+      "title": "Vermute Extra Dry Martini Garrafa 750 ml",
+      "price": "R$ 47,59",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Meio Seco Cono Sur Bicicleta 2014 - 50ml",
+      "price": "R$ 79,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Italiano Sette Spezie Primitivo 750ml",
+      "price": "R$ 89,90",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Tridestilada Liquid Garrafa 950 ml",
+      "price": "R$ 38,09",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Laranja-Pera FYs Lata 350ml",
+      "price": "R$ 2,69",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Brahma Chopp Pilsen Lata 269ml",
+      "price": "R$ 2,59",
+      "onSale": false
+    },
+    {
+      "title": "Suco Integral Sabor Tangerina e Maçã Viver 1,5L",
+      "price": "R$ 25,85",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Seco Pierre Ponnelle 2020 Chardonnay 750ml",
+      "price": "R$ 250,00",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Del Valle Manga Lata 290 ml",
+      "price": "R$ 3,99",
+      "onSale": false
+    },
+    {
+      "title": "Vodka Salton Vorus 1 L",
+      "price": "R$ 25,99",
+      "onSale": false
+    },
+    {
+      "title": "Compre Pizza Marguerita Sadia 460 g + Guaraná Antarctica 2 L com 20% de Desconto",
+      "price": "R$ 29,89",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Antarctica Pilsner Mainstream Lager 350ml 12 Unidades",
+      "price": "R$ 43,08",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Labrot e Graham Woodford Reserve 750 ml",
+      "price": "R$ 209,90",
+      "onSale": false
+    },
+    {
+      "title": "Energético Sem Açúcar Red Bull Energy Drink Sugarfree, 250 ml (4 latas)",
+      "price": "R$ 39,56",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Bicicleta Chardonnay 750ml",
+      "price": "R$ 79,90",
+      "onSale": false
+    },
+    {
+      "title": "Licor Stock Sabor Laranja 720 ml",
+      "price": "R$ 58,99",
+      "onSale": false
+    },
+    {
+      "title": "Cerveja Black Princess Miss Blonde Blond Ale 600ml",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Escocês Johnnie Walker Double Black 1L com 2 unidades",
+      "price": "R$ 499,80",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Almadén Riesling 750ml",
+      "price": "R$ 42,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Kuat Guaraná 350ML",
+      "price": "R$ 3,29",
+      "onSale": false
+    },
+    {
+      "title": "Licor Stock sabor Marula 720 ml",
+      "price": "R$ 70,99",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Melancia Zero Açúcar Turma da Mônica Yaí 200ml",
+      "price": "R$ 3,49",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Limão Frutah 2L",
+      "price": "R$ 4,59",
+      "onSale": false
+    },
+    {
+      "title": "Néctar Misto Sabor Goiaba e Maçã Carrefour Classic 1L",
+      "price": "R$ 5,19",
+      "onSale": false
+    },
+    {
+      "title": "Energético De Morango e Pêssego Baly 473ml",
+      "price": "R$ 6,15",
+      "onSale": false
+    },
+    {
+      "title": "Chá Verde Funcional Sabor Limão Life Mix Boa Forma 1 Litro",
+      "price": "R$ 9,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Rosé Seco Reserva Aurora Merlot Serra Gaúcha 750ml",
+      "price": "R$ 37,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco 8Km Sauvignon Blanc 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Português Vinhas de Algeruz José Maria da Fonseca 750ml",
+      "price": "R$ 39,90",
+      "onSale": false
+    },
+    {
+      "title": "Saquê Licoroso Mirin Kenko 500ml",
+      "price": "R$ 24,49",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Branco Suave Saint Germain Moscato 750ml",
+      "price": "R$ 23,90",
+      "onSale": false
+    },
+    {
+      "title": "Conhaque Presidente 970 ml",
+      "price": "R$ 17,49",
+      "onSale": false
+    },
+    {
+      "title": "Xarope Groselha Ferraspari 1 l",
+      "price": "R$ 14,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Nectar Yummy Maracuja Tp 200 ml",
+      "price": "R$ 1,99",
+      "onSale": false
+    },
+    {
+      "title": "Suco Misto Tial Uva e Maçã sem Adição de Açúcar 200 ml",
+      "price": "R$ 3,59",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Maçã-Verde e Limão Bioleve Zero Garrafa 510 ml",
+      "price": "R$ 3,69",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Merlot Terroirs Du Monde Carménère 750ml",
+      "price": "R$ 28,90",
+      "onSale": false
+    },
+    {
+      "title": "Whisky Jack Daniel's Honey 700ml",
+      "price": "R$ 134,90",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Chileno 18 Valle Central Merlot 750 ml",
+      "price": "R$ 54,99",
+      "onSale": false
+    },
+    {
+      "title": "Saquê Ame Gekkeikan Tradicional 750 Ml",
+      "price": "R$ 58,99",
+      "onSale": false
+    },
+    {
+      "title": "Refrigerante Sukita Uva 350ml",
+      "price": "R$ 2,99",
+      "onSale": false
+    },
+    {
+      "title": "Vinho Tinto Santa Carolina Reservado Cabernet Sauvignon 750 ml",
+      "price": "R$ 39,89",
+      "onSale": false
+    }
+  ]
 ]
