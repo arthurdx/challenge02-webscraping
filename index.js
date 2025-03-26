@@ -1,6 +1,5 @@
 const puppeter = require('puppeteer');
 const { writeFileSync } = require('fs');
-const { timeout } = require('puppeteer');
 
 const sleep = (ms) => {
     return new Promise(resolve => 
@@ -9,33 +8,31 @@ const sleep = (ms) => {
 
 initScraping = async () => {
     const startTime = Date.now();
-    const browser = await puppeter.launch({headless: false});
+    const browser = await puppeter.launch({headless: true});
     const promisesArray = [];
-    for(let i = 1; i <= 5; i++){
+    await setLocation(browser);
+    for(let i = 1; i <= 10; i++){
         promisesArray.push(scrapePage(browser, i));
+        console.log(promisesArray);
     }
     const results =  await Promise.all(promisesArray);
     console.log(results.flat());
-    console.log('Execution time: ', Date.now() - startTime);
+    console.log('Execution time: ', (Date.now() - startTime)/1000, 's');
     await browser.close();
     writeFileSync('output.json', JSON.stringify(results.flat(), null, 2));
     
 }
 
-const scrapePage = async (browser, currentPage) => {
+setLocation = async (browser) => {
 
     const page = await browser.newPage();
 
-    await page.goto('https://mercado.carrefour.com.br/bebidas?page=' + currentPage, {
+    await page.goto('https://mercado.carrefour.com.br/,', {
         waitUntil: 'domcontentloaded',
-        timeout: 15000
+        timeout: 40000
     });
-    
+
     await page.setViewport({width: 1920, height: 1080});
-
-    //recarregando a página, o menu para aceitar os cookies esconde o botão de inserir o CEP
-
-    // await page.reload({waitUntil: 'networkidle2', timeout: 15000});
 
     await page.locator('button[title= "Insira seu CEP"]')?.click();
 
@@ -47,7 +44,21 @@ const scrapePage = async (browser, currentPage) => {
 
     await page.locator('article[role = "presentation"]')?.click();
 
-    await sleep(30);
+}
+
+const scrapePage = async (browser, currentPage) => {
+
+    let page;
+
+    try{
+    page = await browser.newPage();
+
+    await page.goto('https://mercado.carrefour.com.br/bebidas?page=' + currentPage, {
+        waitUntil: 'networkidle2',
+        timeout: 40000
+    });
+    
+    await page.setViewport({width: 1920, height: 1080});
 
     const content = await page.evaluate(() => {
         const products = [];
@@ -65,13 +76,14 @@ const scrapePage = async (browser, currentPage) => {
         }
         return products;
     });
-   
-    return content;
-    
 
-    
-    
-    
+    return content;
+    } catch (error) {
+        console.error(`Erro na página ${currentPage}`);
+        return null;
+    }finally{
+        if(page) await page.close();
+    }
 }
 
 initScraping();
